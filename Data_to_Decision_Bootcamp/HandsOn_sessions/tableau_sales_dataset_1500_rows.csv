@@ -1,0 +1,1501 @@
+Order_Date,Country,City,Category,Segment,Sales,Quantity,Profit
+2024-11-10,Sweden,Stockholm,Clothing,Consumer,354.24,3,-51.37
+2024-02-09,Netherlands,Amsterdam,Groceries,Home Office,1457.9,6,-290.96
+2022-01-22,Spain,Madrid,Electronics,Corporate,63.78,9,-2.54
+2022-07-09,Netherlands,Utrecht,Furniture,Home Office,226.68,3,2.35
+2023-10-09,Spain,Madrid,Clothing,Consumer,382.52,7,-73.71
+2024-02-16,Germany,Munich,Furniture,Corporate,81.13,2,14.31
+2024-02-15,Sweden,Malmo,Groceries,Consumer,117.06,1,-6.75
+2023-12-04,Belgium,Antwerp,Furniture,Corporate,1692.46,2,29.33
+2022-10-23,Spain,Barcelona,Groceries,Consumer,1696.84,2,164.31
+2024-11-30,Belgium,Antwerp,Electronics,Consumer,627.73,1,-120.15
+2023-08-16,Germany,Berlin,Groceries,Home Office,1437.12,3,322.2
+2024-11-17,Italy,Milan,Furniture,Consumer,1733.05,8,81.8
+2023-11-15,Germany,Hamburg,Sports,Home Office,1293.24,3,77.23
+2024-10-25,Italy,Naples,Clothing,Consumer,1144.49,7,-203.45
+2024-06-10,Sweden,Malmo,Furniture,Corporate,260.39,7,16.0
+2022-08-19,Italy,Milan,Sports,Home Office,850.25,4,270.86
+2023-08-01,Sweden,Malmo,Clothing,Corporate,1267.49,9,-179.96
+2022-07-09,Spain,Barcelona,Clothing,Corporate,264.6,9,41.34
+2023-12-11,Germany,Berlin,Electronics,Home Office,1045.96,9,69.72
+2023-03-18,Germany,Hamburg,Furniture,Home Office,1926.77,7,141.59
+2023-11-30,Germany,Berlin,Electronics,Consumer,1238.65,2,32.29
+2024-12-12,Sweden,Stockholm,Electronics,Consumer,1004.43,6,-67.17
+2023-02-05,Spain,Valencia,Clothing,Home Office,1470.02,8,86.24
+2024-01-22,France,Lyon,Clothing,Home Office,1606.77,9,-37.87
+2023-02-07,Poland,Warsaw,Clothing,Home Office,1436.74,3,-11.83
+2022-12-04,Sweden,Stockholm,Electronics,Home Office,1683.53,9,-231.64
+2022-09-20,Sweden,Malmo,Furniture,Home Office,1336.97,9,112.51
+2023-03-29,Germany,Munich,Electronics,Corporate,1805.82,7,-24.44
+2023-09-20,Netherlands,Utrecht,Clothing,Corporate,214.07,8,49.65
+2022-04-09,Belgium,Antwerp,Clothing,Corporate,1948.64,2,-217.38
+2022-06-10,France,Lyon,Clothing,Consumer,85.25,5,-8.67
+2023-10-02,Belgium,Ghent,Clothing,Consumer,1158.2,3,173.71
+2023-03-14,Poland,Krakow,Sports,Home Office,1816.89,2,-13.55
+2024-10-16,Germany,Hamburg,Electronics,Consumer,1458.78,3,167.18
+2023-04-22,Belgium,Brussels,Electronics,Corporate,595.14,6,2.13
+2022-10-29,Germany,Berlin,Sports,Consumer,1934.98,3,656.31
+2024-07-16,Spain,Valencia,Sports,Consumer,1709.72,3,-182.56
+2023-11-17,Germany,Munich,Furniture,Home Office,239.49,6,-0.66
+2024-02-24,Sweden,Malmo,Furniture,Corporate,1704.91,9,317.74
+2024-01-29,Belgium,Ghent,Sports,Corporate,868.57,2,240.5
+2022-01-20,Italy,Milan,Electronics,Consumer,1317.43,3,-18.58
+2024-05-03,Spain,Barcelona,Furniture,Home Office,689.9,6,86.21
+2024-04-17,Poland,Warsaw,Groceries,Corporate,641.37,5,55.95
+2024-05-26,Italy,Rome,Groceries,Corporate,429.04,3,64.61
+2023-10-19,Spain,Madrid,Furniture,Corporate,827.7,3,34.3
+2022-04-27,Sweden,Gothenburg,Sports,Corporate,207.7,9,37.11
+2024-03-12,Germany,Munich,Furniture,Consumer,517.59,6,99.91
+2023-12-05,Belgium,Brussels,Sports,Consumer,1130.99,6,227.92
+2023-11-28,Netherlands,Rotterdam,Clothing,Consumer,716.67,5,-106.22
+2024-06-30,Poland,Krakow,Groceries,Consumer,240.78,5,14.55
+2023-06-06,Germany,Munich,Sports,Home Office,1900.83,4,-332.8
+2023-03-18,Sweden,Gothenburg,Furniture,Home Office,1027.03,8,166.67
+2024-06-14,Spain,Valencia,Furniture,Consumer,1290.99,4,150.41
+2024-08-14,France,Marseille,Groceries,Consumer,1113.95,5,160.71
+2022-10-12,Germany,Berlin,Furniture,Home Office,185.25,2,-33.08
+2024-02-15,France,Marseille,Electronics,Corporate,801.52,2,-45.38
+2023-02-17,Sweden,Gothenburg,Sports,Corporate,126.41,9,30.58
+2024-07-08,Germany,Munich,Sports,Consumer,1623.33,1,328.57
+2022-04-06,Spain,Barcelona,Electronics,Home Office,714.57,5,-49.14
+2024-05-22,Sweden,Stockholm,Electronics,Home Office,786.57,1,61.26
+2024-11-08,Belgium,Brussels,Sports,Home Office,808.94,9,215.12
+2024-01-05,Germany,Hamburg,Groceries,Corporate,1903.68,3,135.47
+2023-01-31,Belgium,Brussels,Sports,Home Office,690.9,5,147.72
+2024-12-01,Sweden,Stockholm,Sports,Consumer,1949.78,5,400.43
+2024-01-21,Italy,Naples,Clothing,Corporate,328.83,1,-47.48
+2024-08-03,Sweden,Gothenburg,Sports,Corporate,1789.2,2,-277.79
+2023-05-15,Italy,Milan,Clothing,Consumer,511.54,7,175.1
+2023-03-21,Spain,Barcelona,Groceries,Home Office,787.08,7,26.23
+2023-10-15,France,Marseille,Clothing,Consumer,840.14,4,-113.12
+2024-10-21,Italy,Naples,Electronics,Home Office,1378.03,9,8.51
+2022-05-14,Germany,Berlin,Electronics,Corporate,1614.11,5,-284.29
+2022-02-16,Italy,Naples,Groceries,Consumer,1277.33,1,185.41
+2024-11-01,Poland,Gdansk,Electronics,Home Office,1919.47,8,32.61
+2023-11-29,Belgium,Brussels,Furniture,Corporate,497.32,5,167.06
+2024-07-17,Belgium,Ghent,Electronics,Consumer,851.85,3,215.0
+2023-03-26,France,Marseille,Sports,Home Office,211.36,2,21.85
+2024-12-24,Italy,Naples,Electronics,Corporate,986.72,1,7.11
+2024-04-06,France,Marseille,Electronics,Corporate,1692.13,1,97.77
+2024-04-02,Netherlands,Utrecht,Electronics,Consumer,1736.21,1,163.01
+2024-11-12,Italy,Milan,Clothing,Consumer,1549.53,5,335.31
+2023-04-02,Netherlands,Amsterdam,Sports,Corporate,301.86,3,-14.76
+2023-05-03,Spain,Barcelona,Electronics,Consumer,1255.35,8,-235.75
+2022-09-25,France,Lyon,Clothing,Home Office,1641.95,5,-248.55
+2024-07-07,Netherlands,Amsterdam,Electronics,Home Office,1522.52,5,230.89
+2024-03-16,Netherlands,Utrecht,Groceries,Corporate,1235.77,2,19.44
+2022-06-15,Netherlands,Utrecht,Furniture,Consumer,929.28,7,81.76
+2022-07-03,Germany,Berlin,Sports,Corporate,1692.08,1,-98.08
+2022-02-22,Belgium,Brussels,Furniture,Corporate,727.46,3,69.47
+2024-06-18,Sweden,Malmo,Clothing,Corporate,404.67,8,10.69
+2023-11-03,Belgium,Ghent,Clothing,Consumer,386.02,3,-68.53
+2023-06-18,Italy,Milan,Groceries,Corporate,222.97,1,20.94
+2024-03-04,Spain,Barcelona,Furniture,Consumer,1608.85,9,286.83
+2022-02-17,Belgium,Antwerp,Clothing,Home Office,169.1,4,41.16
+2022-10-30,Germany,Hamburg,Sports,Home Office,772.42,6,-54.17
+2023-10-28,Spain,Valencia,Furniture,Consumer,121.53,8,-15.41
+2024-03-16,Netherlands,Utrecht,Clothing,Home Office,1088.6,9,223.79
+2022-03-27,Spain,Barcelona,Electronics,Consumer,688.62,9,199.56
+2022-03-08,Spain,Madrid,Groceries,Corporate,1315.2,2,-200.17
+2024-01-18,Sweden,Gothenburg,Furniture,Home Office,298.78,9,-4.3
+2022-11-11,Spain,Barcelona,Furniture,Home Office,1973.7,5,618.82
+2023-09-16,Italy,Milan,Sports,Corporate,363.33,8,106.54
+2024-11-29,Sweden,Malmo,Clothing,Home Office,1409.07,8,-194.99
+2023-10-08,France,Marseille,Groceries,Home Office,1951.38,8,385.58
+2023-12-16,Poland,Warsaw,Furniture,Home Office,1164.64,3,304.23
+2024-04-15,Italy,Milan,Furniture,Corporate,879.6,1,180.26
+2023-10-16,Spain,Valencia,Electronics,Corporate,612.83,5,48.02
+2024-06-20,Sweden,Stockholm,Clothing,Home Office,706.38,5,-116.65
+2022-11-17,Spain,Barcelona,Sports,Corporate,320.71,9,69.95
+2022-11-14,Netherlands,Utrecht,Clothing,Corporate,1504.65,2,-198.07
+2023-08-11,Belgium,Ghent,Electronics,Corporate,789.5,1,163.91
+2022-09-27,Poland,Warsaw,Clothing,Consumer,1609.1,3,-176.44
+2023-07-28,Italy,Naples,Clothing,Corporate,749.72,9,131.68
+2023-02-26,Belgium,Ghent,Clothing,Consumer,1102.57,1,-79.7
+2024-03-31,Germany,Hamburg,Furniture,Corporate,1817.62,3,179.16
+2023-07-08,Poland,Krakow,Clothing,Home Office,321.58,1,30.04
+2023-07-04,Sweden,Malmo,Groceries,Consumer,1517.19,5,346.24
+2023-06-01,Germany,Munich,Groceries,Corporate,1759.69,1,-252.33
+2022-08-04,Italy,Naples,Groceries,Consumer,1227.72,8,-144.31
+2022-04-05,Sweden,Stockholm,Furniture,Home Office,1216.96,4,119.87
+2024-05-21,Netherlands,Utrecht,Sports,Home Office,1187.61,8,39.17
+2022-05-21,France,Lyon,Clothing,Corporate,321.28,2,43.79
+2024-06-06,Sweden,Malmo,Groceries,Consumer,94.89,1,11.1
+2024-02-18,France,Paris,Clothing,Consumer,929.14,5,317.45
+2023-07-21,Poland,Krakow,Electronics,Consumer,493.42,5,4.25
+2022-04-27,Italy,Rome,Furniture,Consumer,1227.26,3,23.31
+2023-01-21,Germany,Munich,Clothing,Corporate,958.12,2,292.37
+2023-10-26,Belgium,Ghent,Clothing,Home Office,1176.38,4,35.77
+2022-03-04,Belgium,Brussels,Electronics,Consumer,591.29,2,97.53
+2023-11-20,Sweden,Stockholm,Groceries,Consumer,1136.75,6,-173.99
+2024-09-16,Italy,Rome,Electronics,Consumer,1512.42,8,444.55
+2023-03-05,Belgium,Antwerp,Sports,Consumer,786.57,8,96.83
+2024-10-06,Germany,Munich,Clothing,Home Office,1072.56,1,21.9
+2024-07-13,Poland,Gdansk,Groceries,Consumer,197.23,3,1.05
+2022-03-28,France,Marseille,Furniture,Consumer,1958.92,2,542.32
+2023-03-19,Belgium,Brussels,Electronics,Home Office,1035.74,8,-147.84
+2024-10-03,Sweden,Stockholm,Clothing,Home Office,1455.59,3,-96.44
+2022-07-01,Poland,Krakow,Clothing,Consumer,449.72,7,131.76
+2022-05-27,Sweden,Gothenburg,Electronics,Home Office,289.41,3,34.92
+2024-03-25,Spain,Barcelona,Furniture,Consumer,1268.28,2,-0.4
+2024-06-23,Sweden,Stockholm,Sports,Corporate,900.45,3,289.63
+2023-09-24,Poland,Warsaw,Furniture,Corporate,1971.47,7,473.0
+2023-06-10,Germany,Munich,Clothing,Consumer,1496.29,2,222.07
+2022-01-04,Sweden,Stockholm,Clothing,Corporate,307.94,2,-15.47
+2022-02-11,Netherlands,Rotterdam,Furniture,Consumer,1174.21,6,-191.46
+2022-12-08,Italy,Rome,Furniture,Home Office,316.93,9,-16.93
+2024-03-31,Netherlands,Rotterdam,Groceries,Consumer,391.97,1,11.89
+2022-05-10,Spain,Barcelona,Furniture,Corporate,374.25,1,-57.81
+2022-05-29,Spain,Valencia,Furniture,Consumer,1682.3,4,328.85
+2023-09-15,Sweden,Malmo,Furniture,Home Office,1910.47,6,387.66
+2024-08-15,Germany,Munich,Groceries,Home Office,1912.71,2,273.2
+2022-10-23,France,Paris,Electronics,Consumer,1469.97,9,275.93
+2022-05-11,Belgium,Antwerp,Electronics,Home Office,201.64,3,-10.15
+2024-03-27,France,Marseille,Sports,Home Office,316.8,9,14.35
+2023-10-23,Sweden,Gothenburg,Clothing,Home Office,1530.12,5,276.57
+2023-05-04,Poland,Warsaw,Furniture,Consumer,1890.92,7,661.15
+2022-12-01,France,Paris,Furniture,Home Office,1409.97,9,-132.64
+2023-08-17,Belgium,Antwerp,Clothing,Home Office,1502.88,4,397.52
+2024-09-21,France,Marseille,Furniture,Home Office,1143.32,2,327.85
+2023-05-12,Netherlands,Rotterdam,Groceries,Home Office,1099.88,6,-27.15
+2024-06-12,France,Paris,Sports,Corporate,864.14,3,240.71
+2024-11-28,Poland,Gdansk,Sports,Consumer,68.5,1,1.44
+2023-01-12,Italy,Rome,Groceries,Home Office,1548.13,9,-23.22
+2022-01-03,Spain,Madrid,Electronics,Corporate,961.26,8,-40.39
+2023-03-08,Spain,Barcelona,Sports,Consumer,84.85,9,-11.86
+2022-03-02,Germany,Hamburg,Furniture,Consumer,555.02,6,188.86
+2022-08-14,Sweden,Gothenburg,Clothing,Corporate,375.72,4,-61.71
+2022-08-14,Belgium,Brussels,Sports,Home Office,798.98,9,-77.87
+2022-02-23,Netherlands,Rotterdam,Sports,Consumer,1939.75,1,164.96
+2023-02-23,Spain,Barcelona,Electronics,Consumer,1528.57,1,-176.33
+2022-11-25,Belgium,Ghent,Sports,Consumer,1795.1,5,-268.69
+2024-07-09,Germany,Hamburg,Clothing,Consumer,1711.78,9,-32.56
+2024-09-10,Germany,Berlin,Clothing,Home Office,542.67,6,-31.01
+2022-02-06,Italy,Milan,Furniture,Corporate,479.36,5,165.53
+2023-11-29,France,Paris,Sports,Home Office,1164.07,8,201.28
+2022-08-04,Netherlands,Amsterdam,Sports,Consumer,1604.98,8,-104.47
+2022-12-29,Netherlands,Utrecht,Electronics,Consumer,515.45,5,89.73
+2022-05-13,Sweden,Malmo,Groceries,Home Office,1767.7,9,-325.1
+2022-03-23,Sweden,Gothenburg,Furniture,Home Office,1645.04,7,-154.27
+2022-01-17,Italy,Milan,Clothing,Consumer,275.9,2,41.03
+2023-04-12,Belgium,Brussels,Clothing,Corporate,1534.0,9,505.68
+2022-10-05,Sweden,Malmo,Sports,Consumer,1877.6,4,-305.47
+2023-02-05,Netherlands,Amsterdam,Groceries,Corporate,1185.23,1,-199.29
+2023-12-05,Belgium,Ghent,Furniture,Corporate,1368.3,4,213.68
+2022-01-29,Spain,Madrid,Groceries,Home Office,93.14,6,0.42
+2024-01-08,Belgium,Ghent,Clothing,Corporate,1994.39,1,-286.78
+2024-06-02,Germany,Hamburg,Sports,Consumer,1687.9,4,270.03
+2024-01-18,Netherlands,Utrecht,Electronics,Corporate,111.04,5,33.34
+2023-07-24,Italy,Naples,Groceries,Corporate,1793.49,2,-148.49
+2023-05-07,Belgium,Brussels,Electronics,Corporate,972.76,8,-109.35
+2023-06-04,Germany,Berlin,Sports,Consumer,1553.3,2,339.49
+2023-01-13,Netherlands,Amsterdam,Groceries,Consumer,1252.47,9,-249.65
+2024-10-13,Sweden,Stockholm,Groceries,Consumer,363.61,6,43.66
+2023-12-22,Italy,Milan,Clothing,Consumer,72.66,2,12.66
+2023-12-30,France,Lyon,Clothing,Consumer,1727.24,6,516.96
+2023-02-05,Netherlands,Rotterdam,Clothing,Consumer,250.45,6,35.06
+2022-01-02,Spain,Madrid,Furniture,Corporate,1091.77,9,-7.81
+2024-07-06,Germany,Berlin,Groceries,Corporate,678.08,6,76.04
+2024-09-20,Poland,Krakow,Furniture,Home Office,130.31,1,42.14
+2022-01-09,Italy,Naples,Clothing,Corporate,1875.61,7,257.18
+2022-04-21,Germany,Munich,Groceries,Corporate,1638.91,7,267.88
+2023-02-14,Belgium,Antwerp,Furniture,Corporate,987.76,9,-108.46
+2024-11-01,Poland,Gdansk,Furniture,Corporate,531.85,9,148.64
+2022-11-05,France,Marseille,Groceries,Consumer,1334.48,3,-148.23
+2023-07-03,Poland,Krakow,Clothing,Corporate,1992.85,9,142.09
+2023-03-21,Spain,Barcelona,Clothing,Home Office,190.79,1,50.03
+2024-08-14,Germany,Munich,Sports,Home Office,1700.18,5,-16.55
+2024-08-04,Spain,Barcelona,Groceries,Corporate,1178.42,4,-216.63
+2022-10-22,France,Lyon,Furniture,Corporate,589.81,3,-25.88
+2022-01-21,Italy,Naples,Sports,Corporate,1479.57,3,335.57
+2022-11-30,Spain,Barcelona,Furniture,Corporate,1049.6,5,283.3
+2022-01-14,Italy,Rome,Groceries,Consumer,1053.89,9,173.3
+2022-01-28,Sweden,Gothenburg,Electronics,Home Office,553.36,5,-107.92
+2023-09-22,Germany,Berlin,Clothing,Corporate,381.03,9,14.09
+2022-11-09,Spain,Valencia,Groceries,Consumer,375.73,4,3.25
+2022-11-01,Netherlands,Amsterdam,Sports,Consumer,1696.13,8,206.83
+2024-08-14,Sweden,Gothenburg,Groceries,Home Office,116.67,2,-15.44
+2022-04-29,Italy,Milan,Sports,Consumer,488.17,5,153.11
+2024-11-01,Italy,Rome,Electronics,Home Office,339.27,5,21.69
+2024-11-28,Netherlands,Utrecht,Furniture,Consumer,936.74,2,-10.81
+2024-01-16,Poland,Gdansk,Sports,Corporate,1479.15,8,493.22
+2023-06-01,Germany,Hamburg,Sports,Corporate,1928.53,2,316.08
+2022-04-24,Sweden,Gothenburg,Clothing,Corporate,526.09,8,144.96
+2024-03-11,Germany,Hamburg,Electronics,Corporate,1221.19,5,203.74
+2024-10-06,Germany,Munich,Groceries,Corporate,1229.66,9,340.05
+2023-08-12,Germany,Berlin,Electronics,Consumer,612.94,4,96.71
+2022-01-19,Poland,Krakow,Groceries,Corporate,1625.3,2,459.7
+2024-04-01,Sweden,Malmo,Sports,Home Office,1315.7,5,-28.26
+2024-04-07,Spain,Barcelona,Sports,Home Office,1119.57,1,-77.64
+2024-05-16,Germany,Hamburg,Groceries,Corporate,378.47,2,20.79
+2023-03-30,Netherlands,Amsterdam,Furniture,Corporate,1832.76,9,16.69
+2022-02-12,France,Paris,Groceries,Home Office,1541.52,6,324.92
+2022-01-21,Spain,Valencia,Clothing,Consumer,431.77,7,126.59
+2022-02-20,Italy,Naples,Electronics,Home Office,167.52,5,10.65
+2023-05-09,Netherlands,Rotterdam,Sports,Consumer,649.22,3,77.59
+2023-08-12,France,Lyon,Furniture,Corporate,856.42,9,74.82
+2024-11-28,Sweden,Malmo,Groceries,Corporate,1074.07,7,-40.38
+2024-08-09,Germany,Munich,Sports,Corporate,1927.71,4,-293.26
+2023-07-13,Poland,Warsaw,Groceries,Consumer,1905.24,7,287.49
+2024-11-15,Italy,Milan,Groceries,Consumer,463.49,8,12.08
+2024-05-08,Italy,Milan,Electronics,Corporate,1572.02,2,318.45
+2022-05-26,Spain,Valencia,Furniture,Consumer,1544.98,1,51.25
+2023-11-04,Italy,Naples,Electronics,Home Office,472.64,1,-48.14
+2023-10-12,Italy,Naples,Clothing,Home Office,550.92,9,40.34
+2023-09-29,France,Marseille,Sports,Corporate,1449.32,1,-277.25
+2023-07-08,Belgium,Antwerp,Clothing,Corporate,1815.77,4,-277.61
+2024-12-29,Germany,Hamburg,Electronics,Consumer,742.24,4,32.16
+2023-03-04,Spain,Barcelona,Groceries,Consumer,505.74,5,-25.73
+2023-01-16,Belgium,Antwerp,Clothing,Corporate,940.87,6,158.27
+2022-12-20,Sweden,Gothenburg,Electronics,Home Office,920.39,4,-153.63
+2022-10-14,Spain,Barcelona,Groceries,Consumer,1521.93,7,144.13
+2024-06-30,Poland,Krakow,Electronics,Home Office,52.41,8,12.45
+2022-12-14,Belgium,Antwerp,Sports,Home Office,1949.62,6,674.31
+2022-05-29,Belgium,Brussels,Electronics,Corporate,231.21,6,-34.91
+2024-01-08,Sweden,Stockholm,Sports,Corporate,173.06,4,-5.76
+2022-12-07,France,Paris,Furniture,Consumer,725.33,9,75.86
+2022-11-07,Netherlands,Utrecht,Groceries,Corporate,365.44,6,26.8
+2022-01-12,Poland,Warsaw,Groceries,Corporate,1864.66,6,465.41
+2022-05-14,Netherlands,Rotterdam,Furniture,Corporate,325.49,7,-10.55
+2023-08-01,Germany,Hamburg,Sports,Home Office,349.89,3,-3.37
+2024-03-03,Spain,Barcelona,Furniture,Consumer,984.74,1,302.82
+2023-04-28,Poland,Warsaw,Sports,Home Office,827.39,9,137.73
+2024-11-01,France,Paris,Furniture,Consumer,1933.35,4,80.68
+2022-09-11,Spain,Valencia,Sports,Home Office,1224.98,7,-142.57
+2024-02-17,Netherlands,Amsterdam,Clothing,Corporate,462.92,2,-77.87
+2022-03-24,Belgium,Ghent,Electronics,Home Office,382.8,5,-51.0
+2023-02-04,Poland,Krakow,Clothing,Home Office,171.47,4,25.42
+2024-03-30,Belgium,Brussels,Sports,Home Office,388.82,4,34.94
+2024-02-07,Sweden,Gothenburg,Sports,Home Office,429.51,7,38.24
+2023-08-21,Poland,Krakow,Sports,Consumer,1929.45,7,55.73
+2024-06-19,Netherlands,Amsterdam,Sports,Corporate,469.64,5,121.57
+2022-06-22,Italy,Rome,Sports,Corporate,133.13,1,-18.59
+2023-09-21,Spain,Valencia,Sports,Home Office,1002.07,4,276.13
+2023-07-08,Belgium,Antwerp,Clothing,Consumer,1580.78,1,514.44
+2023-07-26,Germany,Berlin,Electronics,Consumer,199.01,1,52.24
+2024-01-29,France,Paris,Groceries,Home Office,1335.74,6,200.59
+2024-05-05,Sweden,Stockholm,Groceries,Home Office,1770.8,5,364.06
+2022-03-28,Germany,Hamburg,Sports,Consumer,1446.83,3,-232.66
+2022-08-20,Belgium,Brussels,Sports,Consumer,738.84,4,-5.66
+2023-03-18,Sweden,Malmo,Clothing,Home Office,241.87,6,53.31
+2022-12-26,Belgium,Antwerp,Groceries,Consumer,1268.09,2,211.83
+2024-04-15,Netherlands,Amsterdam,Groceries,Corporate,1560.54,9,511.71
+2022-05-29,Sweden,Gothenburg,Furniture,Corporate,294.21,8,-40.4
+2023-06-07,Italy,Rome,Groceries,Corporate,135.28,1,42.0
+2024-04-25,Sweden,Stockholm,Electronics,Home Office,906.84,9,-99.73
+2023-11-17,Spain,Barcelona,Groceries,Consumer,74.79,5,-3.2
+2024-07-31,Belgium,Antwerp,Electronics,Consumer,541.87,5,183.22
+2022-09-13,Poland,Krakow,Groceries,Home Office,1112.8,9,351.16
+2023-06-25,Italy,Rome,Furniture,Corporate,1386.33,4,346.28
+2022-03-29,Sweden,Malmo,Clothing,Home Office,717.65,6,70.5
+2022-01-19,Italy,Rome,Clothing,Home Office,345.56,7,40.58
+2022-05-09,Germany,Berlin,Furniture,Corporate,1496.34,3,516.98
+2023-04-18,Belgium,Ghent,Furniture,Corporate,1132.42,7,156.54
+2023-05-15,France,Paris,Sports,Consumer,1072.11,6,276.58
+2024-11-09,Poland,Krakow,Electronics,Corporate,687.52,3,180.88
+2022-05-12,Poland,Gdansk,Sports,Corporate,801.48,4,158.0
+2024-04-01,Belgium,Antwerp,Clothing,Corporate,1406.46,5,-258.8
+2023-08-06,Poland,Warsaw,Sports,Consumer,987.9,3,-162.34
+2023-06-20,Belgium,Antwerp,Groceries,Corporate,1369.11,2,179.6
+2022-07-30,Spain,Valencia,Electronics,Home Office,164.17,6,-13.89
+2022-07-02,Spain,Valencia,Sports,Corporate,1484.24,1,-224.52
+2024-08-28,Spain,Madrid,Clothing,Home Office,1480.55,6,227.13
+2023-02-03,Germany,Munich,Groceries,Home Office,849.31,7,97.27
+2022-05-18,Belgium,Brussels,Electronics,Consumer,702.3,1,85.82
+2023-07-17,Poland,Warsaw,Electronics,Home Office,1884.32,3,68.42
+2022-02-18,Netherlands,Amsterdam,Sports,Consumer,898.6,5,169.22
+2023-10-03,France,Lyon,Furniture,Home Office,1571.42,4,347.33
+2024-09-11,Poland,Krakow,Groceries,Consumer,1915.4,8,-322.97
+2022-06-12,Poland,Krakow,Groceries,Home Office,587.44,8,197.47
+2022-07-24,Belgium,Antwerp,Furniture,Consumer,572.87,9,39.05
+2022-09-07,Belgium,Ghent,Groceries,Corporate,1145.89,5,106.37
+2024-08-01,Germany,Hamburg,Furniture,Home Office,1876.8,8,-106.81
+2024-09-10,Germany,Berlin,Furniture,Consumer,709.61,3,237.44
+2022-06-10,Belgium,Brussels,Sports,Consumer,344.93,4,10.31
+2023-07-27,Germany,Hamburg,Electronics,Consumer,1727.27,9,406.66
+2022-07-17,Germany,Berlin,Furniture,Corporate,1701.49,5,-208.39
+2022-04-08,Poland,Warsaw,Furniture,Corporate,1730.87,3,273.54
+2023-09-03,Poland,Gdansk,Groceries,Home Office,151.32,1,-13.51
+2023-01-18,Sweden,Stockholm,Groceries,Corporate,1528.93,4,130.97
+2024-09-27,Belgium,Brussels,Groceries,Corporate,1142.36,1,-211.4
+2024-10-08,Germany,Munich,Clothing,Consumer,1606.77,7,259.06
+2023-12-10,Germany,Hamburg,Furniture,Home Office,1930.73,8,-187.86
+2024-12-31,Belgium,Brussels,Groceries,Consumer,1605.93,8,138.28
+2024-02-14,Spain,Barcelona,Groceries,Corporate,1246.27,3,365.72
+2024-10-11,Netherlands,Rotterdam,Electronics,Consumer,409.24,5,83.06
+2024-08-23,Belgium,Ghent,Sports,Corporate,1937.12,3,552.72
+2024-10-09,Spain,Valencia,Electronics,Home Office,1352.44,2,-147.04
+2022-05-11,Poland,Krakow,Clothing,Home Office,1078.43,9,272.44
+2023-12-02,France,Lyon,Sports,Home Office,706.84,9,177.05
+2024-07-31,France,Lyon,Clothing,Consumer,1320.75,9,-4.24
+2024-09-12,France,Lyon,Clothing,Corporate,526.46,8,-80.05
+2022-02-10,Germany,Berlin,Clothing,Corporate,1492.36,2,316.16
+2023-09-12,Germany,Hamburg,Electronics,Consumer,969.01,3,-177.22
+2024-07-24,Italy,Milan,Furniture,Home Office,57.44,7,-6.21
+2022-05-23,Spain,Madrid,Clothing,Corporate,464.66,3,102.1
+2023-04-05,Italy,Milan,Groceries,Corporate,503.89,9,117.73
+2023-10-08,Italy,Naples,Furniture,Home Office,1357.93,7,-145.31
+2024-04-19,France,Lyon,Groceries,Consumer,301.25,3,101.59
+2022-10-08,Poland,Gdansk,Groceries,Consumer,871.82,6,-40.09
+2024-08-04,Belgium,Brussels,Clothing,Corporate,1660.78,3,403.07
+2023-09-25,Spain,Madrid,Electronics,Home Office,598.97,4,-82.71
+2022-10-13,Poland,Warsaw,Sports,Consumer,139.94,1,8.09
+2024-09-27,Germany,Munich,Clothing,Consumer,634.84,9,-110.16
+2023-11-26,Spain,Barcelona,Electronics,Consumer,1086.07,1,-46.8
+2023-10-23,Spain,Valencia,Clothing,Corporate,174.1,4,-13.73
+2024-11-24,Spain,Madrid,Sports,Consumer,1667.11,8,542.98
+2022-06-23,Belgium,Brussels,Groceries,Corporate,1559.07,9,-19.57
+2023-05-20,Spain,Madrid,Sports,Home Office,1420.14,4,244.31
+2023-08-02,Spain,Barcelona,Groceries,Consumer,1321.84,2,-66.93
+2022-08-02,Netherlands,Utrecht,Electronics,Consumer,546.06,1,-97.27
+2022-12-28,Poland,Krakow,Clothing,Home Office,1944.49,1,276.87
+2023-10-15,Poland,Gdansk,Sports,Consumer,1097.16,1,-214.81
+2023-08-25,Poland,Gdansk,Groceries,Consumer,952.56,5,109.19
+2023-01-17,Poland,Krakow,Clothing,Corporate,591.75,8,-90.0
+2022-07-02,Germany,Berlin,Sports,Home Office,1754.73,3,83.93
+2022-01-19,Sweden,Gothenburg,Sports,Consumer,851.49,8,143.92
+2023-08-25,Italy,Rome,Electronics,Consumer,1912.37,5,-380.83
+2023-12-28,Netherlands,Rotterdam,Sports,Home Office,129.09,4,22.93
+2023-02-24,France,Lyon,Electronics,Home Office,769.65,3,98.5
+2023-10-17,Belgium,Brussels,Electronics,Corporate,1512.21,2,253.62
+2024-06-28,Germany,Munich,Furniture,Home Office,1290.39,6,-175.94
+2023-10-29,Sweden,Malmo,Groceries,Corporate,1494.91,6,382.64
+2022-09-25,Poland,Krakow,Electronics,Consumer,625.33,1,-96.04
+2023-07-28,Sweden,Gothenburg,Sports,Consumer,1139.35,9,229.06
+2023-02-24,Germany,Munich,Groceries,Consumer,1362.28,7,134.04
+2022-07-14,Poland,Krakow,Groceries,Corporate,1722.25,9,63.8
+2023-11-10,Belgium,Ghent,Furniture,Home Office,1047.78,5,162.57
+2024-07-02,Italy,Rome,Electronics,Home Office,1291.96,1,-186.44
+2024-04-12,Belgium,Brussels,Furniture,Corporate,255.26,1,-31.32
+2022-03-16,Italy,Milan,Clothing,Home Office,314.79,6,97.3
+2022-09-19,Netherlands,Rotterdam,Clothing,Corporate,1524.62,5,-62.38
+2022-06-19,Italy,Milan,Sports,Consumer,780.87,3,225.38
+2023-01-04,Spain,Barcelona,Groceries,Consumer,221.99,4,-40.62
+2022-11-01,Belgium,Antwerp,Groceries,Consumer,1087.9,6,-69.84
+2024-02-01,Sweden,Malmo,Clothing,Corporate,162.41,5,53.84
+2023-04-28,Sweden,Malmo,Electronics,Home Office,343.52,2,23.67
+2022-04-14,Netherlands,Amsterdam,Electronics,Home Office,685.36,8,96.88
+2023-10-19,Italy,Naples,Sports,Consumer,1436.23,6,-107.34
+2022-09-24,Belgium,Ghent,Sports,Corporate,739.25,6,-94.73
+2024-09-03,Netherlands,Utrecht,Groceries,Consumer,1377.47,9,389.0
+2022-05-27,Spain,Barcelona,Electronics,Home Office,1050.16,4,288.74
+2023-02-11,Sweden,Malmo,Furniture,Corporate,803.75,9,-0.6
+2022-03-23,Germany,Hamburg,Sports,Corporate,914.74,4,222.85
+2022-12-03,Netherlands,Utrecht,Electronics,Consumer,1701.59,8,-281.87
+2024-11-02,Poland,Gdansk,Clothing,Consumer,1944.49,7,-368.45
+2023-11-14,Belgium,Antwerp,Sports,Corporate,1750.49,5,-4.74
+2022-02-26,France,Paris,Clothing,Corporate,1597.12,3,557.08
+2023-06-26,Belgium,Antwerp,Electronics,Home Office,77.91,1,-0.94
+2023-10-10,Italy,Rome,Sports,Consumer,1549.4,9,342.98
+2024-03-12,Spain,Valencia,Furniture,Home Office,201.42,4,4.82
+2024-06-28,Poland,Gdansk,Clothing,Home Office,1626.06,2,-319.77
+2023-01-10,Netherlands,Utrecht,Furniture,Consumer,1692.05,6,-291.67
+2023-05-23,France,Lyon,Sports,Home Office,1733.63,3,419.39
+2024-01-03,Poland,Krakow,Clothing,Corporate,1187.35,7,-89.86
+2024-12-12,Germany,Munich,Sports,Consumer,861.44,9,-114.05
+2023-10-22,Germany,Hamburg,Furniture,Corporate,1381.1,2,266.1
+2024-12-18,Spain,Madrid,Groceries,Consumer,1561.92,2,32.48
+2022-12-20,Sweden,Gothenburg,Furniture,Corporate,1457.36,9,308.6
+2022-10-21,Sweden,Stockholm,Electronics,Corporate,1796.67,8,470.07
+2023-10-30,Germany,Munich,Sports,Consumer,248.69,1,-31.97
+2024-06-29,Germany,Hamburg,Furniture,Corporate,1888.82,3,567.53
+2023-04-16,Belgium,Ghent,Sports,Consumer,1012.94,1,315.63
+2022-01-23,Germany,Hamburg,Furniture,Home Office,545.75,5,180.82
+2024-03-03,Spain,Valencia,Electronics,Home Office,631.2,5,38.8
+2024-05-20,Netherlands,Amsterdam,Furniture,Consumer,1025.78,9,63.37
+2024-06-10,Belgium,Antwerp,Clothing,Consumer,1724.97,2,178.77
+2022-11-25,Spain,Valencia,Furniture,Consumer,1746.04,6,496.03
+2022-06-11,Germany,Berlin,Sports,Consumer,819.73,8,129.85
+2024-07-28,France,Marseille,Groceries,Corporate,820.51,8,47.17
+2022-08-15,Germany,Berlin,Groceries,Home Office,1350.39,1,-187.26
+2022-02-22,France,Paris,Groceries,Home Office,1391.69,5,419.02
+2023-11-06,France,Lyon,Electronics,Corporate,1011.09,6,93.04
+2024-01-10,Poland,Warsaw,Clothing,Consumer,131.23,6,28.77
+2022-06-24,Sweden,Malmo,Electronics,Corporate,1623.95,2,-162.47
+2022-02-24,Sweden,Stockholm,Electronics,Consumer,1060.02,4,162.21
+2023-09-15,Spain,Valencia,Sports,Consumer,1367.38,8,315.54
+2023-05-04,Germany,Berlin,Clothing,Home Office,1877.89,2,124.4
+2023-05-31,Sweden,Malmo,Groceries,Corporate,1917.69,9,-131.29
+2023-06-24,Belgium,Antwerp,Clothing,Home Office,1565.01,1,-119.0
+2022-01-26,Spain,Valencia,Furniture,Consumer,1702.03,3,-202.83
+2023-05-06,Italy,Naples,Groceries,Home Office,1629.23,4,-23.56
+2024-03-04,Poland,Warsaw,Electronics,Corporate,337.24,5,24.79
+2023-02-26,Germany,Hamburg,Electronics,Corporate,1082.84,5,356.55
+2023-12-15,Poland,Krakow,Furniture,Corporate,401.6,3,-43.71
+2022-11-27,Italy,Rome,Clothing,Consumer,1596.63,6,-223.7
+2023-03-22,Spain,Valencia,Groceries,Home Office,1160.6,5,46.83
+2023-09-12,Netherlands,Utrecht,Furniture,Corporate,1595.56,2,293.7
+2023-06-04,Netherlands,Amsterdam,Furniture,Corporate,365.26,8,82.26
+2024-11-28,Spain,Valencia,Electronics,Home Office,1573.63,4,174.35
+2023-02-25,Poland,Warsaw,Groceries,Consumer,67.63,5,0.5
+2022-06-19,Spain,Barcelona,Clothing,Consumer,677.26,2,56.26
+2024-06-07,Belgium,Ghent,Sports,Home Office,835.39,4,-34.35
+2022-05-09,Belgium,Ghent,Clothing,Corporate,137.58,7,0.61
+2023-12-19,Spain,Madrid,Clothing,Home Office,1262.98,4,15.76
+2022-04-24,Italy,Naples,Furniture,Consumer,1809.36,4,-260.56
+2022-04-15,France,Marseille,Clothing,Consumer,495.95,1,-51.39
+2023-12-10,France,Paris,Electronics,Consumer,1452.36,8,172.9
+2023-12-01,Netherlands,Rotterdam,Clothing,Home Office,888.7,7,284.87
+2022-05-12,Belgium,Brussels,Sports,Corporate,1655.16,4,121.9
+2022-04-22,Spain,Madrid,Sports,Consumer,1717.31,9,0.68
+2023-12-08,France,Marseille,Clothing,Consumer,235.35,8,-40.9
+2024-10-24,Spain,Barcelona,Sports,Corporate,345.61,9,18.94
+2024-05-12,Italy,Naples,Sports,Consumer,299.34,9,-59.87
+2023-11-11,Germany,Munich,Sports,Consumer,490.94,6,-95.46
+2024-04-23,Spain,Valencia,Clothing,Corporate,487.37,4,101.39
+2023-12-03,Italy,Rome,Furniture,Corporate,1645.15,3,-164.7
+2023-05-19,Poland,Gdansk,Groceries,Home Office,1536.84,6,191.88
+2022-02-01,Germany,Hamburg,Furniture,Corporate,376.28,9,-19.62
+2023-03-12,Belgium,Antwerp,Electronics,Consumer,1282.71,5,138.6
+2023-05-04,Germany,Berlin,Electronics,Home Office,925.19,2,169.74
+2024-10-21,Belgium,Ghent,Clothing,Corporate,287.96,7,77.1
+2023-11-12,Germany,Berlin,Furniture,Home Office,430.72,6,-6.64
+2023-07-15,Spain,Madrid,Clothing,Consumer,1467.76,7,149.89
+2024-05-13,Germany,Hamburg,Furniture,Home Office,1482.17,2,-283.34
+2023-11-05,Netherlands,Utrecht,Furniture,Consumer,903.44,4,97.07
+2022-12-05,Italy,Naples,Electronics,Consumer,887.71,5,173.24
+2023-12-17,Poland,Warsaw,Clothing,Home Office,492.12,9,-55.86
+2024-06-01,Spain,Valencia,Furniture,Corporate,1027.96,8,-63.98
+2024-10-11,Belgium,Ghent,Clothing,Corporate,1816.87,2,-116.04
+2022-11-27,Belgium,Brussels,Electronics,Corporate,423.28,1,133.01
+2024-12-28,Italy,Rome,Groceries,Corporate,183.29,1,-7.85
+2022-07-16,Belgium,Brussels,Clothing,Corporate,190.62,7,60.89
+2024-01-30,Italy,Milan,Clothing,Corporate,1981.21,8,-95.15
+2022-07-21,France,Paris,Electronics,Corporate,399.76,6,40.49
+2023-03-01,Spain,Barcelona,Electronics,Consumer,448.66,1,8.38
+2022-07-27,Netherlands,Utrecht,Furniture,Corporate,1279.87,8,206.34
+2022-08-07,Poland,Krakow,Clothing,Home Office,197.39,6,-32.06
+2023-08-19,Germany,Munich,Groceries,Home Office,229.59,2,-12.15
+2022-03-14,France,Lyon,Clothing,Corporate,1427.93,6,-39.84
+2023-02-17,Spain,Valencia,Groceries,Corporate,389.46,3,-55.21
+2024-08-04,France,Paris,Clothing,Corporate,1771.84,8,218.24
+2022-10-11,France,Lyon,Electronics,Consumer,1273.6,4,401.12
+2022-02-15,Germany,Hamburg,Electronics,Corporate,417.65,6,140.9
+2022-02-23,Germany,Munich,Furniture,Home Office,687.74,4,145.53
+2023-10-06,Sweden,Stockholm,Groceries,Home Office,897.09,9,36.88
+2024-11-30,Netherlands,Amsterdam,Clothing,Consumer,521.94,4,-45.82
+2024-12-06,Sweden,Stockholm,Sports,Home Office,107.53,1,-8.83
+2022-03-02,Italy,Naples,Furniture,Home Office,878.3,1,149.38
+2023-10-01,France,Lyon,Furniture,Corporate,1654.82,8,-148.68
+2023-08-26,France,Lyon,Electronics,Home Office,1066.83,3,238.87
+2022-10-22,Germany,Berlin,Sports,Corporate,574.26,1,167.94
+2024-02-09,Germany,Munich,Clothing,Consumer,1278.98,6,45.0
+2022-04-02,Spain,Barcelona,Groceries,Home Office,867.81,6,201.16
+2022-09-13,France,Paris,Sports,Corporate,844.88,6,-155.82
+2024-10-23,Spain,Valencia,Electronics,Home Office,848.86,2,21.08
+2023-10-07,Poland,Krakow,Sports,Consumer,1583.72,5,333.73
+2024-03-13,Netherlands,Amsterdam,Groceries,Home Office,1621.4,1,-48.0
+2022-10-04,Spain,Valencia,Furniture,Home Office,1497.94,4,419.35
+2022-11-10,Italy,Naples,Sports,Corporate,1885.19,1,-46.69
+2023-07-01,Italy,Rome,Clothing,Consumer,730.34,9,198.91
+2023-02-18,France,Marseille,Electronics,Home Office,906.46,6,-33.75
+2023-05-10,Sweden,Stockholm,Sports,Corporate,1004.28,1,208.23
+2023-09-12,Italy,Milan,Sports,Corporate,1054.12,6,103.04
+2023-05-14,Poland,Warsaw,Clothing,Corporate,521.0,3,-40.48
+2022-07-25,Germany,Munich,Groceries,Home Office,375.52,6,-19.83
+2022-05-17,Poland,Gdansk,Groceries,Home Office,860.76,1,83.92
+2024-08-03,France,Marseille,Furniture,Consumer,688.73,6,80.22
+2022-09-02,Italy,Naples,Sports,Consumer,278.55,7,-33.83
+2022-11-01,France,Paris,Sports,Consumer,1373.85,1,444.16
+2022-09-08,Germany,Berlin,Electronics,Home Office,974.8,5,-75.99
+2023-09-24,France,Paris,Groceries,Consumer,1517.64,9,426.14
+2023-09-22,Germany,Hamburg,Groceries,Home Office,1593.54,3,400.5
+2024-07-30,Germany,Berlin,Clothing,Home Office,806.26,8,-154.37
+2022-07-04,Belgium,Antwerp,Groceries,Home Office,1499.01,4,234.71
+2023-07-11,Italy,Milan,Furniture,Consumer,1978.97,4,689.57
+2022-01-03,Netherlands,Rotterdam,Sports,Home Office,733.52,8,-118.98
+2023-09-11,Poland,Gdansk,Groceries,Home Office,1862.11,2,305.25
+2022-11-13,Germany,Berlin,Groceries,Home Office,252.17,9,30.15
+2024-03-17,Germany,Munich,Furniture,Consumer,1371.07,4,-168.4
+2023-07-25,Italy,Naples,Groceries,Consumer,381.27,9,-3.5
+2023-12-28,Poland,Warsaw,Furniture,Consumer,1230.55,5,196.61
+2024-07-26,Spain,Barcelona,Sports,Consumer,648.46,6,8.05
+2024-08-12,Belgium,Ghent,Electronics,Consumer,1729.95,1,210.31
+2023-10-20,France,Marseille,Furniture,Home Office,1919.07,1,-96.78
+2022-03-02,Poland,Warsaw,Clothing,Corporate,682.8,5,124.31
+2024-09-25,Italy,Naples,Groceries,Home Office,1564.74,4,84.24
+2022-12-06,Sweden,Gothenburg,Groceries,Corporate,768.28,8,-140.49
+2023-08-31,Sweden,Gothenburg,Sports,Consumer,524.62,5,76.87
+2023-03-31,Poland,Krakow,Electronics,Corporate,1992.51,6,-295.13
+2024-06-11,Belgium,Ghent,Electronics,Corporate,181.15,4,53.75
+2023-04-03,Italy,Naples,Clothing,Consumer,61.15,3,6.98
+2024-03-13,Belgium,Brussels,Sports,Consumer,93.73,5,21.66
+2024-03-13,Netherlands,Rotterdam,Groceries,Consumer,80.7,8,11.54
+2023-05-30,Belgium,Ghent,Clothing,Corporate,1268.0,5,26.99
+2023-01-18,Netherlands,Amsterdam,Groceries,Consumer,1479.36,2,279.7
+2024-05-04,Netherlands,Amsterdam,Groceries,Home Office,1859.96,2,-22.23
+2024-02-19,Italy,Naples,Clothing,Consumer,1013.59,6,245.72
+2022-10-15,Spain,Barcelona,Electronics,Corporate,936.79,2,-0.62
+2024-07-28,Poland,Krakow,Clothing,Consumer,1025.7,9,158.31
+2024-04-12,Germany,Berlin,Furniture,Corporate,1290.08,4,35.61
+2023-12-22,Belgium,Antwerp,Furniture,Home Office,1682.87,2,-318.85
+2022-07-26,Belgium,Brussels,Clothing,Home Office,1684.4,6,298.37
+2022-01-13,Poland,Gdansk,Groceries,Corporate,349.7,5,90.43
+2024-05-25,France,Lyon,Furniture,Home Office,742.1,6,138.37
+2024-07-30,Italy,Milan,Electronics,Home Office,1335.14,7,101.29
+2022-03-29,Netherlands,Utrecht,Clothing,Consumer,1774.94,9,618.53
+2023-09-23,Spain,Madrid,Furniture,Consumer,1257.03,5,-208.27
+2024-08-02,Spain,Valencia,Sports,Home Office,1355.15,3,140.3
+2024-02-02,France,Lyon,Groceries,Corporate,964.76,6,307.09
+2023-08-07,Belgium,Ghent,Sports,Home Office,907.49,8,-103.85
+2023-07-22,Netherlands,Rotterdam,Sports,Corporate,302.87,7,0.33
+2022-06-15,Spain,Madrid,Sports,Consumer,1736.08,8,-268.22
+2022-04-06,France,Marseille,Clothing,Corporate,354.16,6,81.21
+2024-12-24,Belgium,Antwerp,Clothing,Corporate,946.19,9,182.95
+2023-11-19,Italy,Milan,Electronics,Corporate,1117.11,8,184.67
+2024-11-21,France,Marseille,Sports,Consumer,1784.56,4,-341.38
+2023-03-23,Italy,Milan,Sports,Consumer,1141.18,6,297.88
+2024-06-30,Sweden,Stockholm,Clothing,Corporate,690.05,4,19.93
+2024-04-28,Belgium,Antwerp,Sports,Consumer,1644.82,6,184.63
+2024-12-31,Germany,Munich,Groceries,Home Office,775.74,6,-98.98
+2024-01-28,Belgium,Brussels,Clothing,Home Office,1660.14,6,219.33
+2024-06-24,Poland,Gdansk,Electronics,Corporate,766.41,1,154.21
+2022-11-04,Italy,Naples,Sports,Corporate,1361.89,9,-83.14
+2023-01-18,Italy,Milan,Groceries,Home Office,563.33,2,-96.09
+2024-07-20,Spain,Madrid,Electronics,Corporate,943.73,1,-36.17
+2022-11-24,Belgium,Antwerp,Clothing,Consumer,454.7,7,-89.33
+2024-10-22,Spain,Madrid,Sports,Home Office,1532.83,1,287.02
+2024-02-20,Italy,Milan,Sports,Corporate,1365.08,5,-238.89
+2023-12-15,Germany,Hamburg,Groceries,Home Office,1558.43,5,-268.62
+2022-11-04,Spain,Barcelona,Electronics,Consumer,1860.35,1,442.4
+2022-05-20,Netherlands,Rotterdam,Electronics,Home Office,1462.97,9,196.88
+2022-04-17,Belgium,Ghent,Groceries,Consumer,1612.82,3,343.41
+2023-02-20,Netherlands,Utrecht,Electronics,Consumer,1135.09,5,126.2
+2023-05-08,Sweden,Gothenburg,Furniture,Corporate,1662.37,6,-252.43
+2024-05-05,Germany,Hamburg,Clothing,Home Office,108.7,3,-4.18
+2022-09-30,Belgium,Ghent,Groceries,Home Office,1324.1,8,-33.56
+2022-06-26,France,Lyon,Sports,Home Office,599.15,4,103.63
+2023-12-01,Germany,Berlin,Groceries,Home Office,1980.71,3,-241.17
+2022-07-29,Belgium,Ghent,Groceries,Consumer,1983.81,1,623.94
+2024-07-11,Belgium,Antwerp,Groceries,Corporate,230.1,8,29.31
+2024-03-12,Belgium,Ghent,Sports,Consumer,419.32,8,24.75
+2022-06-01,France,Paris,Furniture,Corporate,1643.95,1,-322.57
+2022-06-11,Spain,Madrid,Sports,Corporate,1719.46,2,503.04
+2023-11-01,Sweden,Malmo,Electronics,Corporate,1883.43,5,68.7
+2024-06-02,Germany,Munich,Sports,Corporate,611.49,4,124.52
+2022-03-11,Germany,Berlin,Electronics,Corporate,1809.71,7,293.65
+2023-12-27,France,Paris,Groceries,Home Office,1070.13,3,27.79
+2023-05-18,France,Paris,Groceries,Consumer,545.18,5,-79.43
+2024-05-19,Italy,Naples,Sports,Home Office,468.66,9,137.15
+2022-01-30,France,Paris,Groceries,Home Office,1733.76,7,-182.24
+2024-01-02,Netherlands,Utrecht,Sports,Consumer,1967.96,9,-359.2
+2023-06-27,France,Paris,Furniture,Home Office,152.89,1,7.93
+2024-01-31,Belgium,Brussels,Electronics,Consumer,1176.38,6,345.57
+2022-01-08,Sweden,Stockholm,Clothing,Consumer,358.69,1,-6.99
+2024-04-28,France,Paris,Electronics,Corporate,748.75,6,83.21
+2022-09-26,Poland,Gdansk,Sports,Home Office,945.29,5,-82.87
+2023-07-24,Spain,Barcelona,Sports,Corporate,1383.54,9,181.14
+2023-12-11,Sweden,Stockholm,Furniture,Corporate,1325.61,2,442.93
+2023-01-19,Germany,Berlin,Sports,Home Office,516.33,3,116.41
+2022-05-02,Sweden,Malmo,Electronics,Home Office,1675.61,8,-40.54
+2024-12-24,Italy,Rome,Clothing,Corporate,916.02,4,24.96
+2024-03-18,France,Lyon,Sports,Home Office,355.78,4,10.87
+2024-02-10,Spain,Madrid,Furniture,Home Office,501.19,8,166.78
+2023-08-06,Sweden,Stockholm,Sports,Corporate,1871.89,3,16.45
+2023-10-20,Italy,Rome,Clothing,Corporate,133.95,5,4.78
+2022-06-22,Spain,Barcelona,Clothing,Corporate,1333.21,6,424.96
+2024-07-07,Italy,Milan,Groceries,Consumer,1025.93,2,-64.4
+2024-10-26,France,Paris,Sports,Corporate,684.16,3,174.92
+2024-04-28,Netherlands,Amsterdam,Groceries,Home Office,1470.32,5,399.13
+2022-05-30,Belgium,Antwerp,Clothing,Corporate,1577.43,3,550.04
+2022-04-23,Spain,Valencia,Electronics,Corporate,643.76,9,-64.6
+2024-06-02,Netherlands,Amsterdam,Sports,Home Office,1115.59,9,-124.81
+2023-12-19,Italy,Naples,Electronics,Corporate,1462.25,7,354.93
+2022-04-09,Germany,Munich,Clothing,Corporate,508.24,5,131.75
+2022-09-15,Italy,Naples,Electronics,Corporate,1856.6,2,-319.63
+2023-04-28,Netherlands,Amsterdam,Clothing,Corporate,105.87,6,24.34
+2024-09-25,Netherlands,Utrecht,Furniture,Consumer,62.2,8,18.49
+2022-01-17,Sweden,Malmo,Groceries,Consumer,482.47,1,-36.5
+2022-03-17,Italy,Rome,Furniture,Corporate,610.29,7,-51.19
+2024-03-07,France,Marseille,Sports,Consumer,702.08,4,127.49
+2024-11-10,Spain,Valencia,Sports,Corporate,1620.59,7,-186.94
+2024-07-06,Spain,Madrid,Groceries,Corporate,294.85,2,-49.78
+2023-04-16,Spain,Barcelona,Sports,Home Office,1615.56,6,-92.24
+2024-10-07,Poland,Gdansk,Groceries,Consumer,852.04,6,239.69
+2023-01-23,Sweden,Stockholm,Groceries,Consumer,255.9,5,-29.18
+2024-09-15,Poland,Gdansk,Sports,Corporate,1980.03,9,-225.9
+2023-01-19,Sweden,Malmo,Furniture,Corporate,1535.27,5,424.28
+2022-07-06,Netherlands,Utrecht,Sports,Corporate,851.82,2,119.53
+2022-05-09,Belgium,Brussels,Sports,Home Office,301.89,5,69.05
+2024-09-18,France,Marseille,Furniture,Home Office,623.43,5,137.75
+2023-02-14,France,Lyon,Groceries,Home Office,611.27,2,104.29
+2023-05-05,Italy,Naples,Groceries,Home Office,1784.67,6,235.1
+2022-01-30,Belgium,Antwerp,Groceries,Corporate,787.3,9,-149.5
+2024-10-12,France,Lyon,Electronics,Consumer,1506.8,5,237.67
+2022-12-29,Italy,Milan,Electronics,Corporate,271.21,2,-26.88
+2023-08-11,Germany,Munich,Groceries,Consumer,104.3,9,-6.03
+2022-11-17,Spain,Valencia,Groceries,Corporate,1362.05,4,-141.58
+2023-06-11,Netherlands,Rotterdam,Electronics,Corporate,1786.25,4,196.77
+2024-04-25,Belgium,Brussels,Furniture,Corporate,1687.65,8,-21.05
+2022-02-05,Belgium,Antwerp,Groceries,Corporate,1983.33,6,176.53
+2024-07-29,Belgium,Brussels,Groceries,Consumer,1375.28,2,164.56
+2024-08-22,Sweden,Stockholm,Clothing,Home Office,1340.58,8,-173.91
+2024-10-01,Sweden,Malmo,Groceries,Consumer,1682.66,7,-219.67
+2023-05-10,Sweden,Stockholm,Electronics,Corporate,1022.99,5,-146.4
+2024-04-26,Spain,Valencia,Clothing,Corporate,1787.84,5,342.68
+2022-10-18,Germany,Hamburg,Sports,Home Office,1802.64,6,444.79
+2024-04-16,Sweden,Gothenburg,Furniture,Consumer,808.02,9,11.67
+2023-07-20,Germany,Hamburg,Clothing,Home Office,916.0,6,256.93
+2022-02-27,Netherlands,Rotterdam,Clothing,Consumer,979.1,1,21.04
+2022-05-11,Italy,Milan,Sports,Home Office,1490.09,5,176.09
+2022-08-31,Spain,Madrid,Groceries,Consumer,1024.92,6,-152.84
+2022-02-21,Netherlands,Amsterdam,Sports,Consumer,1009.51,6,-72.79
+2024-11-15,Belgium,Antwerp,Furniture,Home Office,631.25,9,-96.38
+2023-03-15,Netherlands,Utrecht,Clothing,Home Office,505.79,6,44.39
+2022-11-24,Netherlands,Rotterdam,Groceries,Corporate,1187.1,6,346.04
+2023-10-14,Sweden,Malmo,Sports,Consumer,749.31,5,68.44
+2023-01-16,Italy,Rome,Sports,Consumer,1419.11,9,470.58
+2023-01-01,Spain,Valencia,Electronics,Home Office,649.12,6,66.7
+2023-01-02,Italy,Naples,Furniture,Home Office,723.97,9,-120.09
+2022-11-30,Netherlands,Amsterdam,Groceries,Corporate,169.15,1,-23.94
+2023-11-16,Poland,Krakow,Groceries,Consumer,274.54,8,93.95
+2023-07-30,Poland,Krakow,Clothing,Home Office,942.01,6,47.53
+2024-10-05,Germany,Munich,Electronics,Corporate,345.29,9,45.23
+2023-05-28,Italy,Milan,Clothing,Consumer,366.95,2,-65.7
+2022-03-12,Spain,Valencia,Furniture,Consumer,1210.7,9,-176.49
+2024-01-26,Belgium,Brussels,Clothing,Corporate,204.6,9,3.68
+2024-11-20,Spain,Madrid,Clothing,Home Office,1211.58,1,106.64
+2024-12-25,Poland,Krakow,Electronics,Corporate,1278.68,4,295.26
+2023-01-18,Italy,Naples,Sports,Consumer,1756.51,7,-36.66
+2022-01-19,Poland,Krakow,Groceries,Corporate,1056.75,5,-205.25
+2024-05-11,France,Paris,Furniture,Consumer,93.03,9,26.11
+2024-01-17,Spain,Valencia,Sports,Consumer,307.75,2,47.45
+2023-02-26,Italy,Milan,Furniture,Home Office,471.85,1,122.42
+2023-12-23,Sweden,Gothenburg,Clothing,Home Office,565.72,2,135.71
+2022-05-14,Poland,Krakow,Groceries,Home Office,958.93,7,123.9
+2023-03-09,Sweden,Malmo,Groceries,Home Office,1164.63,6,-194.76
+2023-04-25,Sweden,Stockholm,Furniture,Consumer,1682.61,7,9.41
+2024-02-17,Sweden,Stockholm,Clothing,Home Office,444.47,3,-76.39
+2024-12-26,Sweden,Gothenburg,Sports,Consumer,796.43,7,-74.24
+2023-07-11,Sweden,Malmo,Sports,Home Office,1128.92,3,319.39
+2024-10-13,Spain,Barcelona,Sports,Consumer,1839.21,7,-323.27
+2022-01-01,Germany,Munich,Electronics,Consumer,694.26,8,-25.59
+2024-07-25,Germany,Munich,Groceries,Consumer,373.85,7,128.69
+2023-10-20,Sweden,Stockholm,Clothing,Consumer,1361.16,9,-230.75
+2024-12-27,Belgium,Ghent,Electronics,Consumer,395.31,2,-70.05
+2022-05-28,France,Lyon,Sports,Consumer,399.11,2,68.91
+2023-08-11,Sweden,Stockholm,Furniture,Home Office,191.83,2,27.87
+2024-09-25,Sweden,Malmo,Clothing,Home Office,519.31,6,104.71
+2024-07-27,Belgium,Brussels,Electronics,Home Office,1957.53,7,-373.55
+2023-11-30,Netherlands,Rotterdam,Groceries,Home Office,775.63,4,214.49
+2022-05-07,Germany,Berlin,Furniture,Home Office,860.85,6,18.51
+2023-03-20,Sweden,Gothenburg,Groceries,Home Office,1988.46,8,-224.09
+2022-03-26,Sweden,Gothenburg,Sports,Corporate,1983.49,1,-10.1
+2024-07-07,Netherlands,Utrecht,Clothing,Home Office,1198.59,2,139.73
+2024-07-07,Germany,Berlin,Electronics,Home Office,664.27,2,-107.59
+2024-12-09,Sweden,Malmo,Furniture,Home Office,134.46,6,-2.45
+2023-06-17,Italy,Rome,Electronics,Home Office,1483.3,1,-188.01
+2022-01-28,Italy,Milan,Sports,Consumer,1051.73,9,-25.79
+2024-10-17,Germany,Munich,Clothing,Consumer,1482.49,2,471.15
+2022-05-26,Sweden,Stockholm,Clothing,Consumer,1443.11,4,34.71
+2023-03-05,Italy,Naples,Electronics,Consumer,1014.32,2,294.01
+2023-12-24,France,Paris,Clothing,Home Office,1242.71,6,375.51
+2024-07-18,Germany,Munich,Clothing,Consumer,403.29,8,-25.9
+2022-01-21,France,Paris,Sports,Consumer,881.67,9,-136.78
+2023-06-26,Sweden,Malmo,Furniture,Corporate,1444.05,2,-63.82
+2022-01-15,Spain,Madrid,Electronics,Home Office,805.53,8,135.23
+2022-09-29,Germany,Munich,Groceries,Consumer,698.92,9,200.87
+2023-09-15,Sweden,Stockholm,Groceries,Home Office,1374.18,4,478.66
+2022-07-10,France,Paris,Electronics,Home Office,500.61,9,-62.23
+2023-01-11,Netherlands,Utrecht,Sports,Consumer,861.71,5,-59.04
+2023-07-26,Belgium,Brussels,Groceries,Home Office,458.9,8,111.08
+2022-06-28,Italy,Naples,Sports,Corporate,1778.26,9,-207.1
+2023-10-27,Spain,Valencia,Electronics,Consumer,1472.15,7,217.3
+2023-08-17,Sweden,Gothenburg,Clothing,Corporate,452.83,4,95.03
+2024-06-12,Netherlands,Rotterdam,Clothing,Home Office,437.33,8,111.02
+2022-07-02,Sweden,Stockholm,Groceries,Home Office,329.16,3,107.29
+2022-04-21,Sweden,Gothenburg,Clothing,Consumer,571.46,3,-36.18
+2022-06-22,Spain,Valencia,Furniture,Consumer,1724.46,2,-85.3
+2023-11-17,Poland,Krakow,Sports,Corporate,1309.16,3,-41.47
+2022-03-19,Spain,Valencia,Clothing,Corporate,918.55,5,161.17
+2024-12-18,Sweden,Gothenburg,Clothing,Home Office,1616.33,1,208.2
+2023-01-14,Belgium,Antwerp,Groceries,Home Office,1294.78,8,353.25
+2024-04-22,Germany,Hamburg,Groceries,Home Office,1369.46,1,-131.39
+2023-01-18,Spain,Madrid,Electronics,Home Office,980.54,5,333.07
+2023-03-23,Netherlands,Utrecht,Clothing,Corporate,1425.99,1,-46.58
+2023-12-19,Spain,Valencia,Furniture,Corporate,685.91,6,-5.22
+2023-07-13,France,Marseille,Clothing,Corporate,1733.79,2,392.75
+2024-02-20,Belgium,Brussels,Groceries,Consumer,1952.77,9,-206.26
+2024-02-04,France,Lyon,Sports,Home Office,860.93,8,15.68
+2022-12-06,France,Paris,Sports,Corporate,873.27,5,218.05
+2024-07-27,Italy,Milan,Furniture,Consumer,943.16,7,201.52
+2023-08-16,Italy,Naples,Furniture,Corporate,1991.68,5,-113.96
+2023-12-10,Belgium,Ghent,Electronics,Consumer,1731.05,2,-345.99
+2022-06-06,Spain,Barcelona,Furniture,Home Office,284.71,1,56.43
+2022-08-04,Germany,Hamburg,Electronics,Consumer,650.02,2,-103.9
+2022-08-16,Netherlands,Amsterdam,Groceries,Corporate,1839.79,2,-313.49
+2023-11-25,France,Paris,Sports,Corporate,715.43,5,127.05
+2023-10-20,Italy,Milan,Electronics,Home Office,1738.77,3,-317.42
+2022-03-12,France,Lyon,Groceries,Home Office,992.3,7,213.36
+2022-02-21,Poland,Krakow,Electronics,Corporate,1732.7,5,162.98
+2023-11-22,Germany,Hamburg,Groceries,Corporate,85.64,4,21.85
+2023-06-20,Poland,Warsaw,Electronics,Consumer,1098.29,7,-106.62
+2023-07-28,Sweden,Stockholm,Groceries,Home Office,784.89,6,265.0
+2023-07-08,Poland,Warsaw,Clothing,Consumer,258.26,2,-9.37
+2023-07-23,Germany,Munich,Electronics,Home Office,187.54,3,40.98
+2022-11-17,Germany,Berlin,Sports,Corporate,1913.12,5,521.91
+2023-06-22,Spain,Valencia,Sports,Corporate,1047.97,1,272.51
+2023-06-19,Belgium,Ghent,Electronics,Consumer,1962.55,5,-85.76
+2023-08-13,Sweden,Gothenburg,Sports,Corporate,918.63,3,170.42
+2023-10-14,France,Paris,Electronics,Consumer,1603.06,9,248.54
+2022-07-30,Poland,Gdansk,Sports,Corporate,785.86,1,-139.96
+2024-03-04,France,Paris,Groceries,Home Office,1482.68,4,-150.49
+2024-04-27,Belgium,Ghent,Electronics,Consumer,1963.45,7,123.22
+2023-08-02,Italy,Milan,Clothing,Home Office,424.43,2,20.23
+2022-02-01,Germany,Hamburg,Clothing,Corporate,1408.29,7,353.73
+2024-10-30,Italy,Milan,Groceries,Corporate,339.59,2,60.73
+2022-03-15,Italy,Milan,Groceries,Consumer,1937.1,3,297.42
+2022-07-06,Belgium,Brussels,Clothing,Consumer,1611.83,2,12.93
+2023-03-20,France,Marseille,Sports,Home Office,99.43,1,26.8
+2022-02-10,Germany,Berlin,Clothing,Consumer,207.13,8,-17.84
+2024-06-07,Germany,Berlin,Sports,Consumer,528.82,8,-16.28
+2023-01-03,Germany,Berlin,Sports,Corporate,1184.05,5,119.2
+2024-07-01,Sweden,Stockholm,Furniture,Consumer,431.14,4,131.1
+2022-06-06,France,Paris,Electronics,Corporate,710.71,2,54.09
+2022-06-04,Belgium,Ghent,Clothing,Consumer,956.82,5,267.86
+2022-06-03,France,Lyon,Electronics,Corporate,560.41,1,25.03
+2024-03-20,Italy,Naples,Furniture,Consumer,1129.44,1,41.76
+2024-12-08,Belgium,Ghent,Clothing,Home Office,1704.52,3,583.24
+2024-04-01,Spain,Madrid,Groceries,Consumer,820.35,1,-155.04
+2024-05-09,Poland,Krakow,Sports,Home Office,1257.45,4,-122.56
+2022-03-31,Germany,Munich,Clothing,Corporate,1213.05,1,256.84
+2023-04-04,Italy,Naples,Clothing,Consumer,1245.65,1,366.07
+2024-06-12,Spain,Madrid,Sports,Corporate,921.12,5,-79.87
+2022-03-28,Spain,Barcelona,Furniture,Consumer,522.59,7,6.92
+2023-07-12,Belgium,Antwerp,Groceries,Home Office,1220.49,8,272.61
+2022-08-26,Spain,Barcelona,Clothing,Corporate,183.46,4,-24.65
+2024-12-30,Spain,Valencia,Sports,Home Office,1133.22,3,-14.73
+2024-03-26,Netherlands,Amsterdam,Clothing,Consumer,744.38,5,-74.44
+2023-06-19,Belgium,Ghent,Furniture,Consumer,1588.59,9,237.38
+2023-02-09,Italy,Milan,Electronics,Corporate,1508.63,9,162.72
+2023-09-23,Belgium,Antwerp,Sports,Home Office,1908.58,6,172.1
+2023-09-26,Poland,Krakow,Electronics,Corporate,247.69,3,-8.29
+2023-05-31,Netherlands,Amsterdam,Groceries,Home Office,390.45,2,3.46
+2022-07-16,Poland,Warsaw,Groceries,Corporate,292.01,1,57.42
+2024-06-13,Poland,Warsaw,Clothing,Home Office,535.2,2,48.58
+2023-04-14,Netherlands,Amsterdam,Groceries,Corporate,1620.09,8,366.03
+2024-05-03,France,Paris,Furniture,Consumer,1138.43,2,-184.03
+2023-02-14,Spain,Valencia,Electronics,Consumer,1487.41,6,408.1
+2024-12-10,Poland,Krakow,Furniture,Corporate,1494.29,8,-32.07
+2022-02-08,Belgium,Brussels,Sports,Consumer,992.82,2,-157.67
+2022-04-20,Germany,Munich,Clothing,Corporate,1664.55,9,-223.77
+2022-12-09,France,Paris,Groceries,Corporate,280.05,7,11.44
+2024-07-17,Italy,Milan,Furniture,Home Office,816.86,4,38.39
+2022-03-29,France,Paris,Furniture,Corporate,1253.58,5,-182.12
+2024-07-31,Spain,Madrid,Clothing,Corporate,604.97,9,-26.1
+2024-08-11,Netherlands,Rotterdam,Sports,Corporate,1527.66,6,-162.9
+2022-02-26,Spain,Barcelona,Sports,Consumer,1117.28,6,-69.99
+2023-11-29,Italy,Naples,Furniture,Home Office,1053.75,2,-201.46
+2024-09-08,Spain,Barcelona,Sports,Consumer,1405.09,5,23.53
+2023-06-28,France,Marseille,Groceries,Consumer,363.16,5,-34.29
+2023-01-01,Spain,Madrid,Electronics,Consumer,653.9,8,196.07
+2023-12-11,Belgium,Ghent,Groceries,Consumer,974.61,5,338.71
+2022-08-07,Italy,Rome,Sports,Consumer,1702.18,7,550.91
+2024-03-31,Poland,Warsaw,Groceries,Home Office,669.91,5,-22.78
+2024-08-07,Germany,Berlin,Groceries,Consumer,1287.39,8,-171.98
+2023-09-07,France,Lyon,Furniture,Consumer,1885.6,6,-91.34
+2024-02-07,Germany,Hamburg,Electronics,Consumer,1995.16,9,-140.51
+2022-07-01,Sweden,Stockholm,Sports,Home Office,601.39,6,204.85
+2022-04-11,France,Paris,Groceries,Corporate,897.34,5,-90.31
+2022-08-14,Netherlands,Rotterdam,Electronics,Home Office,1524.57,4,105.31
+2024-11-17,Sweden,Stockholm,Furniture,Home Office,495.25,4,-17.35
+2023-01-03,France,Paris,Furniture,Consumer,1910.19,8,230.79
+2022-10-21,France,Lyon,Furniture,Consumer,1601.54,4,297.25
+2023-04-17,Germany,Hamburg,Furniture,Consumer,305.56,8,-8.89
+2023-11-28,Netherlands,Rotterdam,Electronics,Corporate,1605.72,4,508.02
+2024-05-03,Poland,Krakow,Groceries,Home Office,1734.1,2,111.52
+2024-12-03,Germany,Hamburg,Sports,Home Office,447.79,7,-50.53
+2024-07-05,Spain,Valencia,Groceries,Consumer,617.21,2,161.52
+2022-07-25,Netherlands,Rotterdam,Sports,Corporate,301.69,4,58.36
+2023-03-04,Netherlands,Amsterdam,Groceries,Home Office,196.84,2,49.47
+2022-08-19,Sweden,Gothenburg,Furniture,Consumer,1787.72,6,-11.55
+2023-08-27,Belgium,Ghent,Sports,Consumer,1924.76,5,425.81
+2024-12-17,Germany,Berlin,Electronics,Consumer,312.15,4,41.59
+2024-10-12,Poland,Gdansk,Clothing,Corporate,1791.94,1,614.06
+2024-12-30,Spain,Barcelona,Electronics,Consumer,704.84,5,225.52
+2023-11-25,Belgium,Antwerp,Groceries,Corporate,1786.36,5,-216.96
+2022-01-19,France,Marseille,Electronics,Consumer,839.69,1,103.45
+2023-07-06,France,Paris,Clothing,Consumer,351.32,6,-57.92
+2023-01-08,Spain,Madrid,Furniture,Consumer,1163.17,7,275.44
+2023-05-19,Italy,Milan,Clothing,Home Office,228.09,4,53.26
+2023-07-28,Netherlands,Utrecht,Furniture,Home Office,1401.17,1,-115.98
+2023-02-28,France,Paris,Clothing,Home Office,379.87,6,-48.98
+2022-01-14,Poland,Warsaw,Electronics,Home Office,626.07,9,104.81
+2022-07-28,France,Paris,Clothing,Home Office,1796.67,9,413.2
+2024-03-05,Belgium,Brussels,Clothing,Corporate,717.04,4,-49.43
+2024-12-06,Germany,Berlin,Electronics,Corporate,329.91,7,26.76
+2023-11-10,France,Lyon,Clothing,Corporate,1751.41,2,485.82
+2024-07-20,Poland,Gdansk,Furniture,Home Office,230.28,6,-12.81
+2023-07-01,Germany,Hamburg,Electronics,Corporate,1123.18,4,292.7
+2022-08-23,Belgium,Brussels,Groceries,Corporate,387.4,7,-52.01
+2022-03-29,Italy,Milan,Groceries,Home Office,320.99,7,-8.47
+2024-03-20,Spain,Barcelona,Sports,Corporate,653.47,7,17.06
+2022-01-17,France,Marseille,Groceries,Corporate,521.12,9,100.99
+2022-02-14,Spain,Valencia,Furniture,Corporate,1492.18,2,392.28
+2023-05-30,Poland,Krakow,Furniture,Consumer,310.87,3,-49.75
+2024-10-24,Spain,Madrid,Electronics,Home Office,224.65,8,-15.43
+2023-12-18,Poland,Gdansk,Sports,Corporate,765.02,8,211.47
+2022-11-20,Belgium,Ghent,Clothing,Home Office,521.23,8,101.19
+2023-04-06,Netherlands,Utrecht,Groceries,Consumer,1723.73,6,306.79
+2024-02-09,Belgium,Brussels,Clothing,Consumer,69.16,4,-5.24
+2023-06-18,Spain,Valencia,Clothing,Corporate,642.98,7,176.32
+2022-03-25,Spain,Barcelona,Groceries,Consumer,1710.99,9,-243.94
+2024-12-16,Italy,Rome,Furniture,Consumer,1516.01,3,92.38
+2024-04-18,Italy,Milan,Clothing,Corporate,389.61,4,33.24
+2024-04-18,Belgium,Ghent,Clothing,Consumer,628.07,6,-62.83
+2023-04-09,Belgium,Brussels,Furniture,Corporate,954.77,7,-34.49
+2024-01-20,Italy,Naples,Sports,Home Office,1562.96,2,460.85
+2022-02-18,Spain,Madrid,Groceries,Consumer,1310.49,6,319.4
+2023-01-08,Italy,Naples,Furniture,Corporate,1739.06,3,-67.89
+2023-11-19,France,Marseille,Furniture,Home Office,1998.15,7,-220.11
+2023-05-29,Poland,Krakow,Clothing,Corporate,1079.97,9,-57.31
+2024-01-13,Italy,Naples,Groceries,Consumer,1664.96,8,255.92
+2022-05-08,Poland,Krakow,Sports,Home Office,917.44,5,-116.11
+2022-08-12,Italy,Naples,Groceries,Corporate,1435.19,3,293.86
+2022-06-28,Italy,Milan,Sports,Corporate,901.68,3,211.0
+2024-09-19,Italy,Naples,Electronics,Corporate,1680.94,6,565.77
+2023-03-23,Netherlands,Utrecht,Furniture,Home Office,300.28,7,66.76
+2023-12-04,Netherlands,Rotterdam,Groceries,Home Office,756.47,2,-124.57
+2022-09-15,Italy,Milan,Sports,Consumer,954.06,6,296.43
+2022-03-26,France,Lyon,Groceries,Corporate,178.81,6,54.11
+2022-08-06,Netherlands,Rotterdam,Sports,Corporate,1380.9,6,-43.07
+2022-09-16,France,Paris,Clothing,Consumer,1745.91,8,594.81
+2022-06-04,Netherlands,Amsterdam,Furniture,Corporate,1651.46,6,431.63
+2024-04-11,Netherlands,Amsterdam,Sports,Home Office,701.11,8,211.12
+2022-01-31,Sweden,Stockholm,Groceries,Corporate,1282.17,9,-192.01
+2024-06-04,France,Lyon,Sports,Corporate,832.24,7,102.61
+2022-06-08,Belgium,Brussels,Groceries,Corporate,1648.02,1,161.09
+2024-09-14,Germany,Hamburg,Clothing,Consumer,1182.47,7,210.26
+2022-10-10,France,Marseille,Furniture,Consumer,1403.03,2,241.19
+2024-04-21,Italy,Naples,Electronics,Home Office,1050.03,9,-148.99
+2023-07-19,Netherlands,Rotterdam,Sports,Corporate,1573.85,2,407.55
+2023-06-20,Spain,Barcelona,Sports,Home Office,607.96,1,-115.18
+2022-04-15,Netherlands,Amsterdam,Sports,Consumer,374.68,7,-38.69
+2023-03-25,Poland,Warsaw,Furniture,Consumer,78.56,3,26.46
+2024-06-30,Spain,Valencia,Electronics,Home Office,1169.16,2,147.93
+2023-02-01,Sweden,Gothenburg,Clothing,Home Office,1968.97,2,671.74
+2024-08-24,Germany,Munich,Furniture,Home Office,542.03,3,-31.21
+2022-06-25,Germany,Munich,Electronics,Consumer,1330.3,9,182.95
+2024-10-21,Belgium,Antwerp,Sports,Consumer,964.67,3,-31.78
+2023-08-18,Poland,Warsaw,Electronics,Corporate,1601.38,3,-205.5
+2022-06-30,Netherlands,Amsterdam,Groceries,Consumer,1112.72,4,342.78
+2024-07-02,Italy,Milan,Furniture,Consumer,1097.69,5,-87.74
+2023-08-25,Spain,Valencia,Sports,Corporate,938.36,3,241.92
+2022-06-25,Poland,Warsaw,Sports,Corporate,1364.87,1,466.9
+2024-01-25,Sweden,Gothenburg,Clothing,Corporate,486.04,5,121.22
+2023-05-21,Spain,Madrid,Groceries,Home Office,1875.54,1,607.79
+2022-04-10,France,Paris,Electronics,Consumer,1757.59,9,-347.94
+2023-01-25,France,Lyon,Electronics,Home Office,1452.81,4,210.24
+2023-12-21,Germany,Berlin,Groceries,Home Office,1874.08,3,42.84
+2024-08-11,Poland,Krakow,Sports,Corporate,575.78,9,139.93
+2023-06-04,Italy,Naples,Electronics,Consumer,1030.61,5,-129.18
+2024-11-21,Sweden,Stockholm,Electronics,Corporate,1481.98,3,-214.76
+2023-11-28,Spain,Madrid,Clothing,Corporate,558.29,9,-6.57
+2024-01-13,Poland,Gdansk,Groceries,Consumer,1973.04,7,-335.63
+2022-02-16,France,Paris,Electronics,Home Office,1861.09,2,-59.1
+2024-02-07,Italy,Milan,Furniture,Corporate,1968.28,9,421.34
+2022-01-26,Poland,Gdansk,Clothing,Consumer,1288.11,8,48.48
+2023-12-17,Netherlands,Rotterdam,Electronics,Corporate,851.34,2,-53.77
+2022-04-10,France,Lyon,Furniture,Consumer,232.44,6,-11.06
+2023-01-16,Poland,Krakow,Clothing,Home Office,674.03,8,192.16
+2024-02-12,Sweden,Stockholm,Clothing,Consumer,719.59,8,129.08
+2023-11-13,Netherlands,Rotterdam,Clothing,Corporate,1513.56,9,-181.57
+2023-06-12,Italy,Naples,Electronics,Home Office,1635.63,8,-114.17
+2022-05-13,Spain,Madrid,Sports,Consumer,553.69,1,54.09
+2022-04-27,Germany,Hamburg,Furniture,Corporate,1272.27,7,100.59
+2023-10-08,Belgium,Brussels,Electronics,Corporate,1611.6,6,-321.66
+2023-03-22,France,Marseille,Electronics,Corporate,529.35,6,136.28
+2024-08-01,Poland,Krakow,Furniture,Home Office,782.85,2,243.83
+2022-09-08,Italy,Rome,Furniture,Consumer,149.07,4,3.5
+2024-11-23,Italy,Milan,Clothing,Corporate,294.2,3,-45.21
+2022-11-19,Belgium,Ghent,Electronics,Home Office,888.2,9,-92.26
+2023-08-29,Italy,Naples,Clothing,Consumer,985.27,1,167.87
+2024-08-01,Sweden,Stockholm,Furniture,Consumer,480.36,6,97.48
+2023-05-11,Sweden,Gothenburg,Sports,Home Office,598.5,9,-113.23
+2024-04-13,France,Paris,Clothing,Corporate,1376.49,3,33.54
+2024-03-03,Italy,Naples,Furniture,Corporate,111.45,5,15.87
+2024-01-31,France,Lyon,Electronics,Corporate,275.73,6,23.75
+2023-01-14,Spain,Madrid,Electronics,Home Office,220.46,4,-17.95
+2022-09-24,Sweden,Gothenburg,Sports,Consumer,406.64,1,2.99
+2022-08-08,Sweden,Stockholm,Sports,Home Office,1096.12,7,-63.82
+2024-10-22,Belgium,Brussels,Clothing,Home Office,1348.6,5,-16.29
+2024-11-09,Spain,Madrid,Sports,Consumer,1022.99,6,170.87
+2023-03-30,Germany,Munich,Electronics,Corporate,680.71,3,106.56
+2024-07-09,Netherlands,Amsterdam,Sports,Home Office,213.39,3,18.16
+2023-11-18,Italy,Milan,Sports,Consumer,282.93,5,88.82
+2022-07-31,Italy,Milan,Electronics,Corporate,1115.18,2,-63.15
+2024-07-30,Italy,Rome,Furniture,Home Office,1839.21,8,-287.85
+2023-11-21,Spain,Madrid,Furniture,Home Office,1265.12,2,231.79
+2022-06-18,Germany,Hamburg,Sports,Corporate,1538.14,2,-200.36
+2023-06-12,Sweden,Gothenburg,Sports,Home Office,930.01,2,45.85
+2023-02-05,Italy,Milan,Electronics,Consumer,975.36,1,-2.63
+2023-08-12,Italy,Milan,Clothing,Consumer,1620.66,1,417.43
+2022-01-17,France,Paris,Electronics,Consumer,1839.66,6,435.4
+2024-04-21,Italy,Milan,Groceries,Consumer,515.75,5,-73.01
+2022-08-10,Belgium,Antwerp,Sports,Consumer,648.82,7,-14.45
+2022-01-21,France,Lyon,Groceries,Home Office,1932.76,4,-90.91
+2024-12-25,Belgium,Brussels,Clothing,Consumer,199.41,5,-37.56
+2024-02-08,Netherlands,Rotterdam,Electronics,Home Office,1893.35,2,228.88
+2023-05-21,Italy,Milan,Electronics,Corporate,1755.08,8,-168.59
+2022-08-20,Italy,Milan,Electronics,Corporate,507.02,8,161.78
+2022-10-15,Poland,Gdansk,Electronics,Home Office,117.57,2,35.63
+2022-03-27,Germany,Hamburg,Groceries,Corporate,151.45,5,-21.12
+2023-03-09,Netherlands,Utrecht,Clothing,Home Office,1584.11,4,317.05
+2023-11-08,Netherlands,Utrecht,Clothing,Consumer,1524.8,2,-141.43
+2022-09-01,Spain,Barcelona,Groceries,Home Office,850.47,2,-117.7
+2024-07-12,Netherlands,Rotterdam,Clothing,Home Office,755.25,8,212.8
+2022-04-28,Italy,Milan,Furniture,Corporate,837.07,9,268.2
+2024-08-09,Sweden,Malmo,Sports,Home Office,415.33,7,-36.72
+2023-01-07,France,Marseille,Clothing,Corporate,637.29,2,128.39
+2023-01-06,Italy,Milan,Electronics,Consumer,1154.71,5,-140.64
+2023-07-09,Germany,Hamburg,Electronics,Consumer,361.1,6,32.45
+2023-02-11,Netherlands,Amsterdam,Furniture,Corporate,1040.12,7,-145.02
+2023-01-06,Poland,Krakow,Electronics,Corporate,225.15,2,-33.57
+2024-09-01,Belgium,Antwerp,Furniture,Home Office,1399.26,6,-171.15
+2024-01-16,France,Paris,Clothing,Home Office,226.32,2,-5.99
+2022-04-10,Spain,Barcelona,Sports,Consumer,1557.04,1,-81.95
+2024-01-08,Belgium,Ghent,Furniture,Consumer,755.13,8,-71.96
+2022-02-22,Poland,Gdansk,Groceries,Home Office,286.68,4,-46.23
+2024-04-14,Spain,Madrid,Groceries,Consumer,1027.27,4,-115.53
+2024-02-14,Spain,Valencia,Clothing,Home Office,1348.37,7,-199.33
+2022-07-29,France,Marseille,Furniture,Consumer,379.95,9,74.49
+2022-04-29,Spain,Madrid,Clothing,Home Office,609.97,8,-83.21
+2022-10-11,Spain,Valencia,Clothing,Home Office,1343.81,1,383.73
+2022-04-15,Netherlands,Rotterdam,Clothing,Consumer,950.98,2,-163.6
+2023-01-14,Poland,Gdansk,Clothing,Consumer,732.51,9,121.18
+2022-08-24,Italy,Rome,Furniture,Corporate,1322.82,5,187.93
+2024-01-19,Germany,Hamburg,Groceries,Home Office,1147.18,1,220.81
+2024-06-12,Germany,Munich,Sports,Consumer,1094.16,2,-36.52
+2023-03-13,Sweden,Malmo,Furniture,Home Office,1985.62,2,565.28
+2024-10-28,Spain,Barcelona,Furniture,Corporate,92.32,3,21.04
+2022-12-14,Poland,Krakow,Sports,Home Office,766.31,1,221.27
+2023-03-20,Poland,Krakow,Sports,Consumer,429.2,5,-11.58
+2022-03-06,Italy,Milan,Clothing,Consumer,199.61,8,-18.7
+2024-11-01,Germany,Berlin,Clothing,Home Office,1749.4,1,-313.73
+2022-02-22,Netherlands,Rotterdam,Groceries,Home Office,524.09,7,-68.58
+2024-03-08,Germany,Munich,Groceries,Consumer,1346.4,3,208.53
+2023-12-09,Sweden,Gothenburg,Clothing,Home Office,1659.23,7,-82.1
+2022-07-11,Netherlands,Amsterdam,Furniture,Consumer,64.35,7,-11.54
+2022-08-28,Sweden,Malmo,Furniture,Corporate,922.63,9,47.99
+2023-10-26,Italy,Rome,Groceries,Consumer,1816.74,2,106.08
+2022-08-11,Italy,Milan,Groceries,Home Office,1031.85,1,264.78
+2024-05-08,Spain,Madrid,Electronics,Home Office,1075.25,7,223.35
+2024-04-01,Sweden,Stockholm,Furniture,Home Office,1221.04,9,189.36
+2024-10-06,Sweden,Malmo,Clothing,Corporate,882.24,8,24.28
+2024-01-22,Netherlands,Amsterdam,Electronics,Corporate,915.11,1,93.18
+2023-01-11,Poland,Warsaw,Furniture,Consumer,691.69,6,19.06
+2023-05-18,Italy,Rome,Groceries,Corporate,822.31,9,-23.8
+2022-08-12,Belgium,Brussels,Furniture,Home Office,575.36,4,-96.64
+2022-07-29,Poland,Krakow,Electronics,Corporate,805.13,9,-42.22
+2023-11-27,France,Lyon,Clothing,Corporate,1007.08,5,227.66
+2022-08-09,Netherlands,Amsterdam,Electronics,Corporate,1082.59,6,-203.99
+2022-06-11,Netherlands,Utrecht,Sports,Corporate,1939.19,8,71.83
+2022-08-30,Netherlands,Rotterdam,Groceries,Corporate,1993.86,1,-362.74
+2024-10-15,Sweden,Gothenburg,Electronics,Consumer,130.11,2,44.24
+2024-05-01,Belgium,Antwerp,Electronics,Home Office,1419.53,1,314.42
+2024-04-17,Sweden,Gothenburg,Clothing,Corporate,1939.44,2,416.15
+2023-07-06,Germany,Munich,Groceries,Consumer,1205.36,2,-2.55
+2023-11-20,Belgium,Ghent,Furniture,Home Office,590.06,7,15.31
+2022-10-20,Germany,Berlin,Groceries,Consumer,1788.06,7,-332.2
+2022-04-04,Sweden,Gothenburg,Electronics,Consumer,1234.99,7,75.27
+2023-03-23,Netherlands,Amsterdam,Groceries,Home Office,609.2,9,-28.24
+2022-12-10,Netherlands,Rotterdam,Sports,Home Office,1576.55,2,377.58
+2023-06-11,Sweden,Stockholm,Sports,Home Office,1097.31,2,-83.27
+2022-01-16,Netherlands,Amsterdam,Furniture,Consumer,1368.51,5,477.9
+2024-08-19,Spain,Valencia,Sports,Consumer,503.58,8,-10.39
+2022-11-22,France,Marseille,Electronics,Home Office,1024.38,7,197.71
+2022-06-14,Spain,Barcelona,Electronics,Consumer,705.97,7,239.04
+2023-06-14,Germany,Hamburg,Electronics,Home Office,1500.02,1,-38.24
+2023-04-11,Italy,Rome,Groceries,Home Office,100.5,1,-17.17
+2023-10-19,Italy,Rome,Furniture,Consumer,680.87,9,14.88
+2023-05-15,Poland,Warsaw,Groceries,Corporate,277.54,6,3.48
+2022-09-27,Germany,Munich,Groceries,Consumer,380.37,1,-59.78
+2023-06-04,Belgium,Antwerp,Groceries,Consumer,1159.4,9,190.33
+2023-07-12,France,Marseille,Groceries,Corporate,712.4,1,-30.03
+2024-01-21,Italy,Naples,Electronics,Corporate,1251.67,1,265.29
+2024-07-27,Belgium,Ghent,Groceries,Consumer,1184.1,1,121.82
+2024-01-08,Sweden,Malmo,Electronics,Consumer,277.66,6,81.85
+2022-09-06,Spain,Valencia,Clothing,Corporate,533.23,6,90.68
+2024-05-07,France,Lyon,Electronics,Consumer,441.71,8,-60.83
+2022-10-29,Italy,Milan,Clothing,Corporate,384.77,6,69.68
+2022-11-10,France,Lyon,Clothing,Home Office,185.14,9,55.32
+2023-12-01,Sweden,Stockholm,Electronics,Corporate,1371.48,3,179.79
+2023-09-20,Poland,Gdansk,Clothing,Home Office,1462.55,6,259.08
+2023-08-23,France,Lyon,Furniture,Corporate,886.39,4,26.49
+2024-12-24,France,Marseille,Furniture,Consumer,1165.95,1,285.19
+2023-01-31,Italy,Rome,Sports,Home Office,1501.66,2,354.36
+2022-01-24,Poland,Warsaw,Groceries,Consumer,1669.74,7,454.69
+2023-02-26,Belgium,Brussels,Furniture,Corporate,1328.1,1,283.93
+2024-04-28,Netherlands,Utrecht,Sports,Consumer,81.44,7,-2.97
+2024-06-28,Italy,Naples,Clothing,Corporate,859.76,3,-2.25
+2024-04-28,Italy,Milan,Furniture,Corporate,1163.87,7,-230.27
+2023-08-08,Netherlands,Amsterdam,Furniture,Corporate,570.97,3,93.53
+2022-04-15,Belgium,Brussels,Groceries,Consumer,905.4,2,229.12
+2023-12-24,Netherlands,Utrecht,Electronics,Corporate,1425.44,7,82.29
+2023-05-02,Belgium,Brussels,Clothing,Consumer,1663.78,5,-300.58
+2023-11-04,Belgium,Antwerp,Sports,Consumer,1722.64,4,-340.64
+2023-10-06,Netherlands,Amsterdam,Furniture,Consumer,1432.16,2,413.46
+2023-06-24,Belgium,Antwerp,Electronics,Corporate,1296.63,7,80.92
+2023-12-01,Germany,Munich,Sports,Consumer,1507.81,3,36.7
+2024-12-30,Germany,Munich,Electronics,Home Office,389.71,9,-40.31
+2024-10-29,Poland,Gdansk,Furniture,Home Office,609.35,1,78.61
+2024-09-20,Spain,Barcelona,Sports,Home Office,1596.04,4,-115.3
+2024-11-17,Sweden,Gothenburg,Groceries,Consumer,1623.04,6,214.03
+2023-10-01,Netherlands,Rotterdam,Furniture,Consumer,1979.1,7,-9.38
+2024-06-18,Sweden,Stockholm,Electronics,Home Office,585.1,4,164.48
+2023-06-29,Germany,Munich,Groceries,Corporate,1123.56,6,-147.49
+2023-06-24,Italy,Rome,Sports,Home Office,1925.14,1,172.78
+2024-09-18,Italy,Milan,Clothing,Corporate,955.48,1,197.51
+2023-12-10,France,Paris,Sports,Home Office,244.54,1,40.74
+2022-12-22,Belgium,Brussels,Furniture,Consumer,1868.38,9,240.44
+2024-03-12,Poland,Gdansk,Groceries,Corporate,1951.73,6,-159.27
+2024-06-30,France,Lyon,Furniture,Corporate,1368.38,5,-55.48
+2022-05-27,France,Paris,Sports,Corporate,764.94,5,-31.47
+2022-06-27,Spain,Madrid,Furniture,Consumer,286.25,9,-5.14
+2023-03-21,Sweden,Gothenburg,Groceries,Consumer,832.44,4,-62.67
+2023-05-24,Belgium,Ghent,Electronics,Home Office,1224.76,6,-24.67
+2023-10-28,Netherlands,Rotterdam,Electronics,Home Office,491.0,9,160.44
+2024-12-06,France,Lyon,Electronics,Home Office,816.04,2,-25.69
+2024-08-30,Germany,Berlin,Clothing,Consumer,1479.03,6,-28.5
+2024-08-07,Netherlands,Amsterdam,Furniture,Corporate,1549.09,5,343.86
+2023-01-17,Germany,Munich,Groceries,Home Office,1889.23,6,-267.41
+2022-01-20,Germany,Hamburg,Furniture,Home Office,797.96,2,52.56
+2022-09-10,Sweden,Gothenburg,Furniture,Corporate,439.16,8,67.57
+2023-05-14,Netherlands,Utrecht,Electronics,Consumer,785.5,5,-126.99
+2024-12-12,Belgium,Ghent,Groceries,Home Office,619.14,4,5.36
+2022-08-01,Netherlands,Rotterdam,Groceries,Home Office,1708.5,4,174.58
+2022-03-18,Italy,Rome,Groceries,Consumer,1457.87,6,232.88
+2024-05-30,Sweden,Gothenburg,Clothing,Home Office,976.58,5,10.26
+2022-05-22,Poland,Krakow,Sports,Corporate,1362.37,4,-218.23
+2024-02-02,Germany,Berlin,Sports,Corporate,1948.06,2,-129.31
+2024-12-18,Netherlands,Utrecht,Sports,Corporate,1370.74,1,126.43
+2024-04-29,Germany,Munich,Clothing,Home Office,631.39,7,166.31
+2023-07-12,Germany,Berlin,Groceries,Corporate,1175.27,8,314.28
+2024-09-11,Spain,Valencia,Sports,Home Office,739.47,8,-132.11
+2023-07-12,France,Lyon,Groceries,Consumer,685.12,9,-22.77
+2023-09-20,Sweden,Stockholm,Electronics,Corporate,1614.3,1,-109.82
+2023-05-10,Poland,Krakow,Groceries,Corporate,1350.72,3,254.16
+2024-03-05,Sweden,Malmo,Electronics,Home Office,814.4,5,180.57
+2024-05-18,Germany,Berlin,Clothing,Home Office,247.49,4,-15.64
+2024-07-10,Germany,Munich,Electronics,Home Office,423.47,7,-79.79
+2024-12-11,Belgium,Brussels,Sports,Home Office,494.92,4,123.35
+2023-09-13,Sweden,Malmo,Electronics,Consumer,198.79,4,2.17
+2022-05-28,Spain,Valencia,Electronics,Corporate,1290.46,2,449.4
+2022-09-25,Belgium,Brussels,Groceries,Consumer,1202.09,9,-140.84
+2023-09-20,Poland,Gdansk,Electronics,Home Office,1580.76,1,-198.35
+2022-05-27,Netherlands,Amsterdam,Sports,Consumer,993.4,6,54.59
+2022-09-14,Belgium,Brussels,Furniture,Corporate,837.75,9,267.09
+2023-09-15,France,Marseille,Groceries,Corporate,1221.87,3,16.44
+2023-05-12,France,Marseille,Furniture,Home Office,76.15,7,10.87
+2022-11-20,Sweden,Stockholm,Furniture,Consumer,1169.25,1,124.16
+2024-02-20,Germany,Hamburg,Groceries,Home Office,994.16,3,-188.79
+2024-11-04,Belgium,Ghent,Clothing,Corporate,124.05,9,38.18
+2024-09-15,Spain,Madrid,Electronics,Home Office,135.14,6,-6.56
+2024-12-13,Poland,Warsaw,Groceries,Home Office,560.26,7,-103.37
+2023-10-30,France,Lyon,Sports,Home Office,1454.65,7,-206.85
+2024-12-15,Netherlands,Utrecht,Sports,Consumer,656.52,9,-127.4
+2023-03-18,Italy,Naples,Sports,Consumer,210.74,1,-33.98
+2023-04-11,Germany,Berlin,Furniture,Home Office,601.2,8,101.73
+2022-11-09,Sweden,Malmo,Furniture,Home Office,435.03,7,89.15
+2024-02-28,France,Marseille,Clothing,Consumer,1560.61,4,-272.29
+2022-12-19,Germany,Hamburg,Sports,Consumer,647.08,3,-92.42
+2023-08-13,Sweden,Stockholm,Furniture,Home Office,1041.63,6,-28.19
+2023-08-27,Italy,Milan,Furniture,Corporate,1024.15,3,195.73
+2024-05-09,Netherlands,Amsterdam,Clothing,Corporate,588.06,3,4.76
+2023-01-11,Netherlands,Rotterdam,Clothing,Corporate,939.39,4,71.2
+2023-12-09,Germany,Berlin,Sports,Home Office,494.8,3,62.3
+2024-03-04,Germany,Berlin,Electronics,Corporate,1833.33,9,397.07
+2024-03-19,Germany,Berlin,Clothing,Home Office,487.89,8,-26.44
+2024-03-08,Netherlands,Utrecht,Furniture,Home Office,1006.85,7,219.67
+2024-11-12,Spain,Barcelona,Furniture,Consumer,571.06,8,154.1
+2024-04-04,Germany,Hamburg,Clothing,Consumer,247.27,7,74.61
+2022-12-31,Germany,Hamburg,Sports,Home Office,1937.54,8,527.32
+2022-07-27,France,Paris,Furniture,Home Office,192.63,7,-33.65
+2024-06-17,Germany,Hamburg,Groceries,Consumer,1406.97,9,54.49
+2024-09-24,Belgium,Antwerp,Groceries,Corporate,159.2,7,43.7
+2024-01-17,France,Paris,Groceries,Consumer,567.31,6,82.62
+2023-12-31,Netherlands,Rotterdam,Electronics,Home Office,1454.73,9,-85.89
+2023-07-22,Poland,Warsaw,Sports,Corporate,1502.49,5,-142.26
+2023-03-18,France,Lyon,Furniture,Consumer,1929.64,2,-229.44
+2024-07-14,France,Lyon,Furniture,Consumer,891.59,1,308.43
+2023-04-06,Germany,Munich,Electronics,Corporate,323.97,1,29.2
+2024-12-07,Germany,Munich,Electronics,Consumer,602.84,8,158.76
+2024-03-03,Italy,Milan,Electronics,Consumer,1303.41,3,-147.04
+2024-10-22,Spain,Valencia,Sports,Corporate,1613.16,1,59.16
+2024-04-23,Spain,Madrid,Electronics,Consumer,190.36,2,49.14
+2022-02-15,Germany,Munich,Groceries,Consumer,911.61,1,-30.26
+2024-01-08,Sweden,Gothenburg,Sports,Corporate,913.34,8,253.18
+2023-06-23,Spain,Madrid,Electronics,Consumer,1498.52,9,-144.44
+2023-10-09,Netherlands,Amsterdam,Sports,Corporate,1847.88,4,295.35
+2023-01-18,Sweden,Malmo,Groceries,Corporate,878.42,3,44.12
+2024-03-24,Poland,Warsaw,Clothing,Home Office,132.29,4,-14.66
+2022-05-02,Italy,Milan,Electronics,Home Office,393.36,6,74.07
+2023-11-11,Sweden,Stockholm,Groceries,Home Office,777.75,9,92.18
+2022-12-30,Italy,Naples,Furniture,Corporate,631.21,9,-34.93
+2022-01-07,Belgium,Ghent,Groceries,Consumer,223.98,6,-23.26
+2022-08-30,France,Paris,Furniture,Corporate,684.57,1,200.02
+2022-02-16,Netherlands,Amsterdam,Sports,Corporate,1141.99,5,-189.7
+2022-05-14,Netherlands,Amsterdam,Clothing,Corporate,1394.8,9,-228.64
+2024-09-22,Sweden,Malmo,Sports,Home Office,1050.68,3,350.79
+2022-11-07,Sweden,Stockholm,Electronics,Home Office,743.8,1,188.79
+2022-10-27,Italy,Milan,Clothing,Home Office,276.55,8,12.2
+2024-12-10,Spain,Barcelona,Groceries,Consumer,1130.89,1,230.5
+2022-05-09,France,Marseille,Furniture,Home Office,947.2,5,35.44
+2023-04-12,Netherlands,Amsterdam,Clothing,Home Office,493.69,1,-89.19
+2023-02-21,Italy,Milan,Furniture,Consumer,712.34,3,187.56
+2022-08-01,Germany,Hamburg,Groceries,Consumer,1790.59,3,308.59
+2023-03-27,Netherlands,Amsterdam,Sports,Home Office,839.18,6,-49.17
+2024-06-09,Germany,Munich,Electronics,Consumer,768.18,1,8.41
+2024-03-07,Germany,Hamburg,Clothing,Corporate,705.51,9,84.95
+2023-04-17,Germany,Berlin,Groceries,Corporate,74.89,3,-11.06
+2023-08-22,Spain,Barcelona,Electronics,Home Office,1447.08,1,409.15
+2023-12-04,Belgium,Brussels,Clothing,Consumer,824.72,7,93.37
+2023-04-01,France,Paris,Electronics,Consumer,839.48,4,216.66
+2023-09-26,Germany,Berlin,Sports,Corporate,1895.44,4,-114.7
+2022-07-19,Belgium,Antwerp,Electronics,Consumer,1682.01,5,120.46
+2024-12-21,Belgium,Ghent,Furniture,Home Office,708.55,1,164.98
+2022-04-16,Netherlands,Utrecht,Furniture,Consumer,1142.68,8,356.63
+2023-02-12,Italy,Naples,Furniture,Consumer,1699.63,2,-97.39
+2024-03-25,Sweden,Stockholm,Clothing,Consumer,339.83,1,89.12
+2024-09-23,Belgium,Brussels,Groceries,Corporate,817.68,9,229.93
+2023-05-05,Netherlands,Rotterdam,Groceries,Corporate,1924.6,1,440.24
+2022-03-28,Poland,Krakow,Groceries,Home Office,1894.06,8,310.78
+2023-09-25,Belgium,Brussels,Sports,Consumer,417.83,4,37.91
+2023-08-06,France,Lyon,Clothing,Consumer,1455.2,7,23.17
+2024-11-08,Netherlands,Amsterdam,Groceries,Corporate,1905.22,8,-225.85
+2023-09-29,France,Lyon,Groceries,Home Office,1001.8,4,204.22
+2023-04-02,Netherlands,Amsterdam,Electronics,Consumer,1426.04,9,15.14
+2024-11-22,Belgium,Antwerp,Sports,Home Office,194.64,6,62.13
+2024-04-29,Italy,Naples,Furniture,Consumer,1779.54,6,-150.95
+2023-11-11,Netherlands,Rotterdam,Electronics,Corporate,393.28,2,46.85
+2024-08-10,Germany,Hamburg,Furniture,Consumer,1702.9,6,414.08
+2022-12-11,Poland,Gdansk,Sports,Home Office,1689.18,6,-109.96
+2022-12-11,Spain,Madrid,Groceries,Consumer,419.51,8,46.66
+2023-01-12,Germany,Hamburg,Clothing,Consumer,1378.05,8,398.71
+2022-02-08,Germany,Munich,Furniture,Consumer,1174.92,1,105.77
+2024-04-14,Poland,Gdansk,Sports,Corporate,135.5,2,19.35
+2023-07-07,Sweden,Malmo,Furniture,Consumer,904.68,5,-98.98
+2022-09-15,Belgium,Brussels,Groceries,Consumer,1569.06,2,-186.56
+2022-09-17,Poland,Gdansk,Sports,Home Office,264.84,9,40.59
+2023-06-26,Sweden,Malmo,Sports,Consumer,747.15,9,-136.51
+2022-11-29,Italy,Milan,Furniture,Consumer,1551.06,8,140.06
+2024-02-08,Belgium,Antwerp,Furniture,Home Office,154.2,3,-16.21
+2023-06-26,Spain,Valencia,Clothing,Consumer,1547.77,1,218.93
+2024-06-07,Belgium,Brussels,Sports,Corporate,325.97,3,41.12
+2023-09-19,Sweden,Stockholm,Electronics,Home Office,1697.34,4,-92.41
+2024-02-21,Italy,Rome,Sports,Consumer,1404.91,7,-256.98
+2023-08-30,Sweden,Gothenburg,Groceries,Corporate,1689.53,5,-34.33
+2022-06-14,Sweden,Gothenburg,Furniture,Home Office,331.93,6,101.99
+2022-01-19,Italy,Rome,Sports,Home Office,395.95,6,44.29
+2022-04-17,France,Lyon,Clothing,Consumer,1622.67,6,-198.58
+2022-12-02,Belgium,Brussels,Furniture,Corporate,1755.48,5,531.98
+2022-01-24,Netherlands,Utrecht,Groceries,Corporate,1227.32,5,-155.37
+2024-03-03,Sweden,Malmo,Furniture,Consumer,140.55,2,43.12
+2023-04-21,Spain,Madrid,Groceries,Consumer,1062.83,6,349.42
+2023-04-01,France,Lyon,Furniture,Home Office,1175.48,9,400.16
+2022-10-30,France,Lyon,Clothing,Consumer,710.56,6,134.88
+2023-04-12,Germany,Berlin,Sports,Corporate,1279.59,3,51.88
+2023-11-15,France,Lyon,Groceries,Consumer,75.37,8,-2.9
+2023-06-17,Sweden,Malmo,Sports,Consumer,1183.78,3,-65.13
+2024-01-09,Germany,Munich,Clothing,Home Office,336.44,6,-36.84
+2022-01-24,Spain,Valencia,Electronics,Home Office,935.04,5,-131.99
+2024-05-16,Spain,Barcelona,Furniture,Home Office,516.49,7,-87.24
+2022-01-31,Spain,Barcelona,Electronics,Consumer,1056.09,2,335.09
+2023-06-14,Italy,Naples,Clothing,Home Office,793.24,7,153.41
+2022-03-17,Poland,Warsaw,Clothing,Corporate,1890.98,9,29.9
+2024-10-09,Belgium,Antwerp,Groceries,Corporate,358.66,1,-30.81
+2024-06-16,Poland,Krakow,Electronics,Corporate,1376.46,3,380.64
+2024-09-16,France,Marseille,Sports,Consumer,1309.23,7,307.2
+2023-12-07,Belgium,Ghent,Clothing,Consumer,1163.43,7,-84.65
+2024-06-08,Germany,Hamburg,Clothing,Home Office,615.27,8,89.21
+2024-04-15,Poland,Krakow,Furniture,Corporate,747.79,7,97.09
+2024-07-01,Belgium,Ghent,Electronics,Home Office,1094.27,2,43.39
+2022-06-15,Poland,Warsaw,Groceries,Corporate,1506.01,1,123.37
+2024-07-19,Netherlands,Utrecht,Sports,Corporate,459.59,2,-11.89
+2024-01-29,Belgium,Antwerp,Electronics,Consumer,196.64,6,12.91
+2024-09-28,Sweden,Stockholm,Electronics,Home Office,682.88,3,-35.5
+2022-08-31,Italy,Naples,Groceries,Consumer,653.64,9,160.86
+2022-05-19,Spain,Valencia,Clothing,Corporate,1098.11,1,190.91
+2023-03-05,Germany,Berlin,Sports,Corporate,271.84,4,-38.21
+2024-12-10,Sweden,Malmo,Groceries,Home Office,662.51,3,178.44
+2022-12-22,Netherlands,Amsterdam,Electronics,Corporate,1550.04,8,-278.16
+2022-07-24,Germany,Hamburg,Clothing,Home Office,1191.26,6,344.11
+2024-07-01,Belgium,Ghent,Furniture,Corporate,793.75,7,130.91
+2023-01-02,France,Marseille,Furniture,Home Office,161.41,3,41.09
+2023-04-23,Belgium,Antwerp,Groceries,Home Office,525.92,7,64.45
+2022-05-13,Belgium,Ghent,Groceries,Consumer,101.01,3,29.53
+2022-09-16,Netherlands,Rotterdam,Clothing,Consumer,1816.41,7,-209.68
+2022-12-28,Germany,Berlin,Sports,Consumer,577.52,6,-51.87
+2022-01-08,Italy,Naples,Clothing,Home Office,653.97,3,-23.73
+2023-10-23,Belgium,Brussels,Electronics,Corporate,584.32,2,63.06
+2024-05-04,France,Lyon,Clothing,Home Office,1821.45,4,372.47
+2022-09-30,France,Lyon,Clothing,Consumer,1849.02,9,41.7
+2024-07-11,Spain,Madrid,Furniture,Home Office,160.14,4,42.22
+2022-05-08,Spain,Valencia,Groceries,Corporate,1555.87,2,376.2
+2023-12-15,Poland,Krakow,Groceries,Consumer,537.21,4,66.63
+2024-05-01,Germany,Hamburg,Furniture,Consumer,493.88,8,124.41
+2023-04-18,Netherlands,Rotterdam,Clothing,Corporate,1599.05,3,-81.14
+2022-01-12,Sweden,Gothenburg,Furniture,Home Office,152.88,1,-8.02
+2022-03-03,France,Lyon,Clothing,Consumer,1621.3,3,96.28
+2024-11-14,Spain,Valencia,Electronics,Home Office,1426.47,1,-4.14
+2023-05-31,Belgium,Brussels,Electronics,Corporate,1899.88,5,629.07
+2022-02-18,Germany,Munich,Clothing,Home Office,1649.54,4,187.83
+2024-03-04,France,Marseille,Furniture,Consumer,184.89,7,-8.25
+2024-02-22,France,Lyon,Groceries,Home Office,1865.5,9,-51.15
+2022-04-07,Germany,Berlin,Furniture,Consumer,860.76,6,-147.51
+2023-02-14,Spain,Barcelona,Sports,Corporate,1087.99,3,-167.91
+2024-09-12,Italy,Milan,Electronics,Home Office,1977.11,9,-343.86
+2022-11-09,Spain,Valencia,Furniture,Home Office,1014.92,2,146.82
+2023-03-03,France,Lyon,Furniture,Corporate,85.22,6,-1.53
+2023-02-13,France,Marseille,Electronics,Home Office,1598.09,7,233.16
+2024-09-18,Netherlands,Utrecht,Electronics,Consumer,260.31,9,72.12
+2023-05-01,Netherlands,Rotterdam,Electronics,Corporate,1943.26,5,456.34
+2022-09-22,Poland,Warsaw,Clothing,Consumer,1397.36,3,-251.64
+2023-03-30,Poland,Warsaw,Sports,Corporate,642.26,8,147.52
+2024-10-17,Sweden,Stockholm,Clothing,Home Office,433.68,8,81.79
+2022-06-20,Netherlands,Rotterdam,Furniture,Corporate,1371.9,5,87.87
+2022-06-24,Germany,Hamburg,Electronics,Consumer,227.94,6,-39.04
+2023-03-19,Netherlands,Rotterdam,Clothing,Consumer,1257.73,2,-113.96
+2023-10-03,Netherlands,Utrecht,Groceries,Consumer,510.22,3,-64.41
+2024-04-03,Belgium,Brussels,Electronics,Home Office,1982.42,8,-133.72
+2024-04-17,Italy,Rome,Furniture,Corporate,820.23,5,-109.8
+2022-03-21,France,Paris,Sports,Consumer,178.49,6,-35.42
+2022-07-21,Germany,Munich,Sports,Consumer,1344.94,1,-175.02
+2022-09-23,Sweden,Stockholm,Furniture,Home Office,1631.11,7,356.26
+2023-12-25,Italy,Rome,Groceries,Consumer,256.94,3,-7.1
+2023-07-24,Spain,Madrid,Furniture,Consumer,1618.39,2,-236.79
+2024-01-09,Netherlands,Utrecht,Electronics,Corporate,1184.22,6,38.92
+2022-05-01,Spain,Valencia,Sports,Home Office,682.29,5,127.25
+2024-02-25,Italy,Milan,Groceries,Corporate,60.36,2,10.41
+2023-07-20,Belgium,Antwerp,Sports,Corporate,1384.44,3,-112.31
+2024-06-08,Italy,Naples,Clothing,Home Office,1264.35,1,439.8
+2023-07-22,Belgium,Brussels,Electronics,Consumer,1020.49,3,-196.27
+2024-11-18,Sweden,Stockholm,Electronics,Home Office,1198.43,9,188.24
+2022-12-19,France,Marseille,Electronics,Consumer,399.63,8,134.6
+2022-05-19,Belgium,Ghent,Furniture,Home Office,298.76,5,99.54
+2022-05-20,France,Paris,Sports,Consumer,1668.88,8,307.16
+2022-05-17,France,Paris,Sports,Home Office,1051.72,6,-86.06
+2022-08-31,Spain,Madrid,Groceries,Corporate,708.61,3,56.47
+2023-10-15,France,Marseille,Furniture,Corporate,1727.49,3,30.51
+2023-07-24,Sweden,Malmo,Electronics,Home Office,1722.64,4,-220.48
+2022-12-05,Poland,Warsaw,Sports,Corporate,1361.42,8,403.94
+2022-06-19,Spain,Valencia,Sports,Corporate,1582.33,4,502.44
+2022-02-26,Netherlands,Amsterdam,Furniture,Consumer,1172.78,7,-226.54
+2023-02-22,Germany,Hamburg,Groceries,Home Office,1310.91,4,352.43
+2024-07-03,Belgium,Brussels,Groceries,Corporate,599.76,5,35.24
+2024-08-05,Netherlands,Amsterdam,Electronics,Consumer,70.17,5,5.92
+2023-02-02,France,Lyon,Electronics,Consumer,925.22,3,-105.49
+2023-04-11,Spain,Valencia,Electronics,Home Office,1182.44,2,-125.44
+2024-12-04,Netherlands,Utrecht,Clothing,Corporate,1194.91,7,321.31
+2022-06-21,Poland,Gdansk,Groceries,Corporate,1421.03,9,83.42
+2022-10-07,Poland,Gdansk,Sports,Corporate,1920.51,4,-198.62
+2024-10-15,Belgium,Ghent,Groceries,Corporate,587.14,5,43.72
+2024-09-12,France,Marseille,Sports,Consumer,744.91,4,199.58
+2023-05-07,Italy,Rome,Furniture,Home Office,790.92,1,-8.51
+2024-01-01,Spain,Valencia,Clothing,Home Office,310.36,4,89.46
+2023-08-31,Belgium,Ghent,Electronics,Home Office,1820.35,6,-233.57
+2023-08-12,Spain,Valencia,Clothing,Consumer,651.83,1,-119.47
+2024-07-24,Poland,Gdansk,Sports,Consumer,1019.54,3,-16.72
+2022-07-26,Sweden,Malmo,Groceries,Home Office,576.61,5,-98.5
+2024-12-03,Spain,Madrid,Furniture,Consumer,1393.76,8,-41.32
+2023-03-16,Germany,Munich,Electronics,Home Office,326.14,9,-29.74
+2023-07-06,Belgium,Brussels,Sports,Home Office,577.25,7,87.34
+2022-06-04,Italy,Milan,Sports,Home Office,1242.15,3,-238.0
+2022-08-20,Germany,Munich,Groceries,Consumer,1456.45,6,229.46
+2024-03-23,Italy,Naples,Sports,Corporate,533.47,9,16.39
+2023-12-13,Spain,Madrid,Clothing,Consumer,1052.06,4,258.46
+2023-01-17,Belgium,Brussels,Sports,Consumer,412.37,4,-6.93
+2022-09-16,Belgium,Brussels,Electronics,Home Office,877.76,6,271.97
+2024-07-13,Poland,Warsaw,Clothing,Home Office,276.88,6,92.07
+2023-10-13,Germany,Berlin,Clothing,Corporate,1439.57,7,-35.09
+2024-04-29,Belgium,Brussels,Electronics,Consumer,563.84,5,-62.29
+2023-10-08,Spain,Barcelona,Sports,Consumer,260.19,8,11.52
+2023-10-17,Spain,Madrid,Sports,Consumer,85.16,1,2.01
+2023-08-27,Italy,Rome,Furniture,Home Office,315.69,4,102.83
+2023-05-01,France,Paris,Groceries,Consumer,1618.31,8,30.63
+2022-12-29,Poland,Gdansk,Groceries,Consumer,1314.01,5,-142.07
+2022-01-27,France,Marseille,Furniture,Home Office,551.13,9,-58.53
+2024-05-24,Sweden,Stockholm,Sports,Consumer,620.85,5,189.65
+2024-01-02,Italy,Rome,Clothing,Home Office,816.68,6,-84.86
+2022-05-29,Sweden,Gothenburg,Clothing,Corporate,572.62,5,-60.1
+2023-08-17,Italy,Rome,Groceries,Corporate,1548.42,9,-219.48
+2023-02-11,Sweden,Stockholm,Electronics,Home Office,1563.15,9,128.48
+2023-09-06,Sweden,Malmo,Clothing,Home Office,835.64,5,-136.66
+2024-11-19,Germany,Munich,Electronics,Home Office,351.64,9,8.58
+2022-11-26,Sweden,Malmo,Electronics,Consumer,1761.1,7,530.19
+2023-04-07,Germany,Munich,Furniture,Home Office,1903.24,5,-273.64
+2024-02-10,Spain,Valencia,Groceries,Consumer,1704.41,4,441.04
+2022-08-19,Belgium,Brussels,Electronics,Corporate,889.46,6,151.94
+2024-03-13,Poland,Warsaw,Electronics,Corporate,1627.51,3,522.22
+2022-03-31,Netherlands,Utrecht,Clothing,Home Office,1662.96,5,167.37
+2022-10-20,Germany,Berlin,Electronics,Corporate,1858.05,1,362.75
+2024-12-03,Spain,Madrid,Clothing,Home Office,1188.52,2,50.42
+2023-12-07,Spain,Valencia,Furniture,Corporate,895.76,6,-175.11
+2024-02-22,Italy,Naples,Furniture,Home Office,1324.84,2,325.78
+2022-11-18,Spain,Barcelona,Furniture,Home Office,116.81,7,-2.45
+2023-10-30,France,Marseille,Groceries,Consumer,827.74,7,-161.34
+2023-02-05,Italy,Naples,Clothing,Home Office,707.0,3,-18.66
+2024-03-12,Poland,Gdansk,Sports,Home Office,1071.33,8,251.64
+2023-03-31,France,Marseille,Groceries,Corporate,1199.47,4,34.33
+2024-10-20,Germany,Berlin,Furniture,Corporate,1579.6,1,-87.75
+2022-03-27,Italy,Rome,Clothing,Home Office,182.2,8,27.46
+2024-05-23,Spain,Barcelona,Furniture,Consumer,1700.79,7,151.35
+2024-07-05,Italy,Rome,Electronics,Consumer,1416.48,1,451.05
+2024-10-14,Spain,Valencia,Electronics,Consumer,604.0,8,147.09
+2024-06-07,Belgium,Brussels,Groceries,Corporate,285.52,5,-11.95
+2023-04-05,Netherlands,Utrecht,Furniture,Consumer,1034.24,4,225.84
+2024-04-30,Italy,Naples,Electronics,Home Office,1238.93,5,-113.59
+2024-12-13,Germany,Munich,Groceries,Home Office,1716.5,4,20.22
+2022-12-14,Sweden,Stockholm,Sports,Corporate,543.75,4,-59.59
+2023-08-12,Poland,Warsaw,Electronics,Consumer,559.01,9,-59.49
+2023-06-08,Italy,Naples,Clothing,Corporate,1093.74,6,-142.73
+2022-08-20,France,Paris,Electronics,Corporate,1554.6,4,-37.72
+2024-03-25,Italy,Rome,Sports,Home Office,969.92,5,-131.55
+2022-09-18,Sweden,Stockholm,Clothing,Corporate,1931.01,6,280.3
+2022-02-27,Belgium,Antwerp,Groceries,Home Office,979.41,3,69.51
+2023-09-14,Poland,Gdansk,Furniture,Corporate,1517.99,4,42.76
+2023-08-15,Italy,Rome,Furniture,Consumer,219.81,1,-8.38
+2022-08-28,Spain,Madrid,Groceries,Home Office,717.42,8,248.26
+2022-02-14,Belgium,Ghent,Furniture,Home Office,1091.78,8,-60.96
+2022-11-14,Belgium,Ghent,Groceries,Home Office,1570.92,7,-47.39
+2023-04-23,Italy,Rome,Sports,Consumer,66.31,2,-12.57
+2024-02-25,France,Paris,Clothing,Corporate,1984.87,5,-330.06
+2022-03-29,Germany,Munich,Sports,Home Office,989.58,8,-81.29
+2024-01-15,Netherlands,Utrecht,Groceries,Corporate,935.74,8,216.3
+2023-08-20,Spain,Barcelona,Clothing,Corporate,865.1,3,42.06
+2023-05-26,Italy,Naples,Furniture,Home Office,311.25,2,-61.5
+2022-08-27,Netherlands,Rotterdam,Clothing,Home Office,699.36,1,219.09
+2022-01-16,Germany,Berlin,Electronics,Corporate,744.61,8,147.94
+2023-02-22,Spain,Madrid,Groceries,Corporate,390.57,8,27.97
+2023-11-04,Sweden,Stockholm,Electronics,Corporate,196.43,7,-4.17
+2023-01-06,France,Paris,Clothing,Corporate,1086.4,8,-150.61
+2023-03-16,Poland,Krakow,Furniture,Corporate,1751.3,8,449.87
+2022-01-13,Germany,Berlin,Sports,Consumer,1163.16,9,-208.19
+2024-07-27,Italy,Rome,Electronics,Corporate,1208.95,7,152.14
+2023-07-29,Germany,Hamburg,Groceries,Home Office,451.79,2,69.55
+2022-08-24,Belgium,Brussels,Electronics,Corporate,951.6,9,261.66
+2022-05-13,Poland,Gdansk,Sports,Home Office,1865.07,4,-87.79
+2022-10-20,Poland,Warsaw,Furniture,Home Office,1756.49,2,271.73
+2023-05-17,Italy,Milan,Furniture,Home Office,565.96,9,90.56
+2022-04-23,Italy,Rome,Electronics,Consumer,1204.23,7,-117.14
+2024-02-22,Poland,Gdansk,Electronics,Consumer,586.21,4,-63.0
+2022-06-22,Spain,Barcelona,Sports,Home Office,1522.0,9,343.22
+2023-03-11,France,Marseille,Groceries,Home Office,1888.09,2,154.67
+2024-05-04,Netherlands,Amsterdam,Sports,Home Office,1268.64,5,-138.34
+2023-04-05,Germany,Berlin,Groceries,Corporate,1463.58,9,393.24
+2024-08-26,Poland,Warsaw,Electronics,Consumer,1021.35,7,223.04
+2024-09-19,Belgium,Antwerp,Electronics,Consumer,1833.19,6,-262.01
+2023-10-12,Germany,Munich,Clothing,Home Office,581.49,3,-80.2
+2022-02-26,Spain,Valencia,Furniture,Home Office,1039.89,8,-142.47
+2023-02-14,Sweden,Stockholm,Furniture,Corporate,759.6,9,-142.84
+2023-10-24,France,Paris,Furniture,Corporate,1484.65,1,-178.3
+2022-06-21,Belgium,Brussels,Furniture,Corporate,1344.41,6,24.84
+2024-03-26,Poland,Krakow,Furniture,Corporate,1116.9,2,292.48
+2024-05-19,Belgium,Ghent,Electronics,Consumer,1436.7,7,171.79
+2023-12-07,Sweden,Stockholm,Groceries,Home Office,588.43,9,159.88
+2023-10-26,Germany,Hamburg,Sports,Consumer,1494.52,7,-261.82
+2023-08-31,Germany,Berlin,Sports,Home Office,1599.63,3,344.27
+2024-08-30,France,Paris,Sports,Consumer,1715.33,3,234.46
+2023-10-26,Belgium,Antwerp,Sports,Corporate,1753.95,5,490.51
+2023-03-28,Spain,Madrid,Clothing,Home Office,1554.56,6,366.26
+2023-05-29,Netherlands,Utrecht,Furniture,Home Office,1864.53,1,70.93
+2023-03-10,Germany,Berlin,Groceries,Home Office,1079.16,7,-74.03
+2022-10-27,Belgium,Brussels,Clothing,Corporate,1972.68,8,202.87
+2023-04-23,Sweden,Gothenburg,Sports,Corporate,1332.02,1,387.82
+2024-01-30,Netherlands,Rotterdam,Clothing,Corporate,1881.26,1,-123.15
+2023-02-16,Italy,Naples,Groceries,Corporate,1126.83,7,-25.25
+2024-02-01,Italy,Naples,Furniture,Corporate,1212.1,2,-128.91
+2024-02-09,Poland,Gdansk,Electronics,Consumer,1111.15,1,-108.95
+2024-12-27,France,Lyon,Groceries,Consumer,379.75,5,-9.48
+2023-02-06,Spain,Madrid,Furniture,Consumer,1869.96,8,-148.79
+2023-01-14,Netherlands,Amsterdam,Furniture,Consumer,385.78,1,-49.13
+2023-05-06,Spain,Valencia,Sports,Corporate,1262.56,4,-113.72
+2023-05-30,France,Marseille,Clothing,Consumer,887.18,9,-121.84
+2022-04-30,Germany,Munich,Electronics,Corporate,1470.52,5,-42.71
+2023-06-06,Germany,Berlin,Groceries,Home Office,1629.09,6,-242.23
+2023-11-17,Spain,Barcelona,Groceries,Home Office,1162.59,7,-151.92
+2023-05-16,Belgium,Antwerp,Clothing,Consumer,365.84,3,65.06
+2023-06-06,Netherlands,Utrecht,Groceries,Corporate,1886.88,3,277.86
+2024-04-17,Netherlands,Rotterdam,Clothing,Home Office,1700.78,3,27.02
+2024-07-27,Italy,Milan,Clothing,Home Office,835.09,6,38.92
+2024-10-23,Netherlands,Amsterdam,Electronics,Corporate,1527.05,7,75.98
+2024-05-13,France,Marseille,Groceries,Home Office,1017.63,5,28.46
+2023-02-09,France,Paris,Clothing,Home Office,512.11,5,-46.26
+2023-04-24,Germany,Hamburg,Groceries,Home Office,1759.53,3,381.06
+2022-12-26,Poland,Gdansk,Clothing,Consumer,302.93,7,68.08
+2022-04-30,Netherlands,Utrecht,Furniture,Home Office,1630.91,3,-60.27
+2024-12-09,Italy,Rome,Furniture,Corporate,654.04,5,142.01
+2022-05-12,Belgium,Ghent,Sports,Consumer,616.05,8,-29.06
+2022-12-23,Spain,Barcelona,Sports,Corporate,1456.95,9,457.69
+2024-01-10,Germany,Berlin,Groceries,Corporate,1600.67,2,184.89
+2022-11-22,Belgium,Ghent,Electronics,Consumer,1612.76,4,-299.15
+2024-09-13,Germany,Hamburg,Sports,Home Office,1035.07,5,-104.83
+2023-06-13,Belgium,Antwerp,Furniture,Corporate,824.62,4,-44.8
+2024-03-20,Poland,Gdansk,Electronics,Consumer,1132.76,5,80.61
+2023-06-23,Sweden,Stockholm,Clothing,Consumer,537.26,6,39.96
+2023-08-16,Italy,Milan,Clothing,Home Office,1955.87,3,-167.4
+2022-07-04,Poland,Krakow,Electronics,Home Office,769.66,5,95.92
+2023-03-19,Poland,Krakow,Clothing,Consumer,1694.68,8,17.96
+2022-02-26,Belgium,Ghent,Clothing,Consumer,1319.84,3,-182.39
+2023-03-18,France,Marseille,Electronics,Corporate,1050.77,6,283.59
+2022-01-25,Germany,Munich,Clothing,Home Office,867.54,8,-149.63
+2024-12-25,Spain,Valencia,Furniture,Home Office,1620.88,7,-153.21
+2022-10-09,Sweden,Stockholm,Groceries,Home Office,1150.05,3,28.98
+2022-02-18,France,Paris,Groceries,Home Office,397.61,9,46.89
+2024-10-08,Germany,Hamburg,Furniture,Home Office,1764.26,3,292.23
+2023-09-05,France,Marseille,Sports,Consumer,1453.4,9,290.45
+2024-08-07,Poland,Gdansk,Electronics,Corporate,948.1,8,84.94
+2024-02-10,Netherlands,Rotterdam,Clothing,Home Office,1141.79,1,-32.35
+2022-11-06,Germany,Munich,Electronics,Consumer,1358.4,1,-227.37
+2024-10-23,Sweden,Stockholm,Sports,Consumer,1551.76,6,401.55
+2022-09-26,Sweden,Stockholm,Furniture,Home Office,1900.71,5,663.78
+2023-01-24,Italy,Milan,Groceries,Corporate,1654.63,7,-8.55
+2022-12-08,Germany,Hamburg,Electronics,Consumer,1464.86,6,-173.19
+2024-04-25,Belgium,Antwerp,Furniture,Home Office,185.54,4,-35.65
+2022-06-30,Spain,Madrid,Furniture,Corporate,344.29,9,16.08
+2024-12-19,Belgium,Antwerp,Clothing,Consumer,1362.75,5,-44.04
+2023-07-02,Germany,Hamburg,Furniture,Corporate,1484.5,4,76.76
+2022-01-04,Germany,Berlin,Clothing,Consumer,600.67,7,-15.46
+2024-08-13,Italy,Milan,Electronics,Home Office,1840.48,5,622.76
+2023-01-13,Netherlands,Amsterdam,Electronics,Corporate,268.87,8,-30.08
+2022-01-16,Germany,Berlin,Clothing,Corporate,1031.36,4,78.12
+2022-01-06,Belgium,Ghent,Sports,Consumer,1672.38,5,202.59
+2023-02-09,Poland,Krakow,Clothing,Home Office,1250.44,2,403.63
+2022-03-19,Poland,Warsaw,Sports,Corporate,1237.55,6,152.38
+2024-12-07,Spain,Valencia,Clothing,Consumer,197.95,1,28.32
+2023-04-10,Netherlands,Rotterdam,Sports,Corporate,474.02,4,-10.77
+2024-12-12,Spain,Valencia,Clothing,Corporate,758.58,2,260.86
+2023-05-08,Germany,Munich,Furniture,Corporate,493.39,1,20.95
+2022-10-31,Germany,Munich,Electronics,Home Office,1206.65,3,-101.71
+2022-07-07,Sweden,Malmo,Groceries,Corporate,259.35,7,7.53
+2024-12-06,France,Lyon,Groceries,Home Office,1422.69,2,-41.98
+2023-03-02,Poland,Krakow,Sports,Consumer,586.5,5,136.34
+2022-06-08,France,Marseille,Groceries,Consumer,535.19,1,22.25
+2022-04-24,Spain,Madrid,Clothing,Home Office,1750.01,7,-290.8
+2024-07-31,Sweden,Gothenburg,Furniture,Corporate,1498.5,3,-117.46
+2022-06-20,Italy,Milan,Clothing,Consumer,311.19,2,9.84
+2023-02-12,Spain,Valencia,Groceries,Corporate,1592.46,2,-206.51
+2022-08-25,Belgium,Antwerp,Electronics,Corporate,348.93,5,-3.94
+2022-07-15,Belgium,Ghent,Sports,Consumer,1556.37,6,-273.69
+2024-03-28,Italy,Rome,Sports,Home Office,94.08,4,-8.19
+2024-03-06,France,Paris,Sports,Consumer,926.49,1,247.97
+2024-03-02,Italy,Milan,Furniture,Consumer,421.39,5,-19.67
+2024-06-17,Netherlands,Amsterdam,Sports,Consumer,1147.15,3,146.2
+2024-09-26,Poland,Warsaw,Clothing,Consumer,358.57,5,64.04
+2023-04-03,France,Marseille,Sports,Home Office,437.89,3,133.57
+2022-10-07,France,Marseille,Furniture,Home Office,426.66,8,-9.85
+2023-01-10,Spain,Valencia,Furniture,Consumer,1575.67,1,540.36
+2022-03-17,Italy,Rome,Sports,Home Office,536.13,5,164.58
+2024-10-14,Sweden,Gothenburg,Sports,Home Office,1864.79,6,201.64
+2023-05-12,France,Marseille,Clothing,Consumer,1501.98,1,283.01
+2023-08-18,Italy,Naples,Clothing,Corporate,806.51,6,15.31
+2024-12-30,Belgium,Antwerp,Groceries,Corporate,979.15,7,192.8
+2024-10-23,Spain,Madrid,Groceries,Consumer,928.64,2,25.04
+2022-08-29,Sweden,Malmo,Electronics,Corporate,263.33,3,4.3
+2022-01-03,France,Lyon,Sports,Corporate,1805.46,4,377.21
+2023-09-20,Netherlands,Amsterdam,Electronics,Home Office,1445.49,6,478.76
+2023-10-11,Spain,Madrid,Furniture,Consumer,1312.96,8,-156.58
+2023-07-02,France,Paris,Sports,Home Office,193.48,9,37.76
+2022-02-19,Poland,Warsaw,Sports,Corporate,1569.18,8,-194.5
+2024-12-19,France,Paris,Furniture,Corporate,942.26,3,247.92
+2022-10-02,Belgium,Antwerp,Sports,Corporate,1228.99,7,98.97
