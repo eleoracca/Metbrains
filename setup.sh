@@ -79,6 +79,7 @@ update_requirements() {
     pipreqs "$DIR_project" \
         --force \
         --encoding=utf-8 \
+		--scan-notebooks \
         --savepath "$FILE_requirements"
     echo ""
 
