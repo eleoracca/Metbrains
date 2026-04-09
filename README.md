@@ -10,15 +10,15 @@ It serves as a personal archive to track progress and consolidate knowledge acro
 ## 🧠 Topics Covered
 
 * Tableau
-* Basics of data analysis and machine learningS
+* Basics of data analysis and machine learning using Python (scikit-learn)
 
 ## 📂 Repository Structure
 
 ```
 .
 ├── Data_to_Decision_Bootcamp/
-│   ├── project_1/
 │   └── HandsOn_sessions/
+│   ├── Project/
 └── README.md
 ```
 
@@ -34,8 +34,17 @@ Navigate into a specific project or course folder to explore the code.
 
 ## 🛠 Requirements
 
-Requirements may vary depending on the project.
-Check individual folders for details.
+Use the setup.sh script to prepare the environment:
+
+```code
+bash setup.sh setup
+```
+
+or to update the requirements:
+
+```code
+bash setup.sh update_requirements
+```
 
 ## 📌 Notes
 
